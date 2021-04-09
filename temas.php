@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Thasadith">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 </head>
 
 <body>
@@ -28,7 +29,7 @@
     </div>
 </nav>
 <nav class="navbar navbar-light navbar-expand-sm sticky-top bg-light d-flex justify-content-center" id="mainNav" style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;">
-    <div class="container-fluid"><a class="navbar-brand" style="margin-left: 0px;padding-left: 0px;padding-right: 0px;margin-right: 0px;" href="#header"><img src="assets/img/logo%20header.svg" style="width: 150px;color: rgb(254, 209, 54);"></a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
+    <div class="container-fluid"><a class="navbar-brand" style="margin-left: 0px;padding-left: 0px;padding-right: 0px;margin-right: 0px;" href="index.php#header"><img src="assets/img/logo%20header.svg" style="width: 150px;color: rgb(254, 209, 54);"></a><button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
         <div class="collapse navbar-collapse" id="navbarResponsive" style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes" style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);">¿quiénes somos?</a></li>
@@ -40,8 +41,8 @@
         </div>
     </div>
 </nav>
-<header class="masthead" style="background: url(&quot;assets/img/slider1.jpg&quot;) center / cover no-repeat;">
-    <div class="container" id="header" style="max-width: 100%;background: rgba(10,10,10,0.49);">
+<header data-aos="fade" data-aos-duration="900" class="masthead" style="background: url(&quot;assets/img/slider1.jpg&quot;) center / cover no-repeat;">
+<div class="container" id="header" style="max-width: 100%;background: rgba(10,10,10,0.49);">
         <div class="intro-text" style="padding-top: 70px;padding-bottom: 200px;">
             <div class="intro-lead-in" style="margin-bottom: 0px;margin-top: 0px;padding-top: 15px;padding-bottom: 15px;margin-right: 100px;margin-left: 100px;border-top-width: 1px;border-top-style: solid;border-bottom-width: 1px;border-bottom-style: solid;"><span class="text-break text-justify" style="font-size: 40px;margin-bottom: 10px;margin-top: 10px;padding-top: 10px;padding-bottom: 10px;font-family: Thasadith, sans-serif;height: auto;text-align: center;"></span>
                 <p style="font-size: 40px;font-family: Thasadith, sans-serif;">TEMAS DE INTERES</p>
@@ -49,8 +50,8 @@
         </div>
     </div>
 </header>
-<section id="quienes" class="about-us" style="padding-top: 100px;padding-bottom: 150px;">
-    <div class="container">
+<section data-aos="fade-down" id="quienes" class="about-us" style="padding-top: 100px;padding-bottom: 150px;">
+<div class="container">
         <div class="row">
             <div class="col" style="border-bottom: 1px solid rgb(0,56,105);padding-bottom: 15px;"><img src="assets/img/bullet.svg" style="width: 16px;transform: rotate(180deg);"><a href="index.php" style="font-family: Thasadith, sans-serif;font-weight: 700;color: rgb(0,56,105);">&nbsp;Regresar a Home</a></div>
         </div>
@@ -183,8 +184,8 @@
         </div>
     </div>
 </section>
-<section id="contacto" class="about-us" style="padding-top: 0px;padding-bottom: 0px;height: 100px;">
-    <div class="container">
+<section data-aos="fade-up" id="contacto" class="about-us" style="padding-top: 0px;padding-bottom: 0px;height: 100px;">
+<div class="container">
         <div class="row">
             <div class="col" style="border-bottom: 1px none rgb(0,56,105) ;">
                 <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: 700;">Contáctanos</h1>
@@ -192,8 +193,8 @@
         </div>
     </div>
 </section>
-<section id="about-2" class="about-us" style="padding-top: 50px;padding-bottom: 0px;background: url(&quot;assets/img/footer.jpg&quot;) center / cover no-repeat, rgba(225,178,24,0);">
-    <div class="container">
+<section data-aos="fade-up" id="about-2" class="about-us" style="padding-top: 50px;padding-bottom: 0px;background: url(&quot;assets/img/footer.jpg&quot;) center / cover no-repeat, rgba(225,178,24,0);">
+<div class="container">
         <div class="row">
             <div class="col">
                 <h1 style="font-family: Thasadith, sans-serif;font-size: 30px;color: rgb(0,56,105);">Hablemos</h1>
@@ -315,29 +316,7 @@
                                                 </div>
                                                 <hr class="d-flex d-md-none">
                                             </div>
-                                            <div class="col-12 col-md-6">
-                                                <h2 class="h4"><i class="fa fa-location-arrow"></i> Locate Us</h2>
-                                                <div class="form-row">
-                                                    <div class="col-12">
-                                                        <div class="static-map"><a rel="noopener" href="https://www.google.com/maps/place/Daytona+International+Speedway/@29.1815062,-81.0744275,15z/data=!4m13!1m7!3m6!1s0x88e6d935da1cced3:0xa6b3e1bc0f2fc83a!2s1801+W+International+Speedway+Blvd,+Daytona+Beach,+FL+32114!3b1!8m2!3d29.187028!4d-81.0703076!3m4!1s0x88e6d949a4cb8593:0x1387c6c0b5c8cc97!8m2!3d29.1851681!4d-81.0705292" target="_blank"> <img class="img-fluid" src="http://maps.googleapis.com/maps/api/staticmap?autoscale=2&amp;size=600x210&amp;maptype=roadmap&amp;format=png&amp;visual_refresh=true&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C582+1801+W+International+Speedway+Blvd+Daytona+Beach+FL+32114&amp;zoom=12" alt="Google Map of Daytona International Speedway"></a></div>
-                                                    </div>
-                                                    <div class="col-sm-6 col-md-12 col-lg-6">
-                                                        <h2 class="h4"><i class="fa fa-user"></i> Our Info</h2>
-                                                        <div><span><strong>Name</strong></span></div>
-                                                        <div><span>email@awebsite.com</span></div>
-                                                        <div><span>www.awebsite.com</span></div>
-                                                        <hr class="d-sm-none d-md-block d-lg-none">
-                                                    </div>
-                                                    <div class="col-sm-6 col-md-12 col-lg-6">
-                                                        <h2 class="h4"><i class="fa fa-location-arrow"></i> Our Address</h2>
-                                                        <div><span><strong>Office Name</strong></span></div>
-                                                        <div><span>55 Icannot Dr</span></div>
-                                                        <div><span>Daytone Beach, FL 85150</span></div>
-                                                        <div><abbr data-toggle="tooltip" data-placement="top" title="Office Phone: 555-867-5309">O:</abbr> 555-867-5309</div>
-                                                        <hr class="d-sm-none">
-                                                    </div>
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </form>
                                 </div>
@@ -360,6 +339,7 @@
     </div>
 </section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 <script src="assets/js/script.min.js"></script>
