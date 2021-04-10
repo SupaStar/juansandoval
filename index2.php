@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Thasadith">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 </head>
 
@@ -64,9 +65,10 @@
         style="background: url(&quot;assets/img/slider1.jpg&quot;) center / cover no-repeat;">
     <div class="container" id="header" style="max-width: 100%;background: rgba(10,10,10,0.49);">
         <div class="intro-text" style="padding-top: 70px;padding-bottom: 200px;">
-            <div class="intro-lead-in" style="margin-bottom: 25px;"><img src="assets/img/logo-slider.svg"
+            <div class="intro-lead-in" style="margin-bottom: 25px;"><img data-aos="fade-up"
+                                                                         src="assets/img/logo-slider.svg"
                                                                          style="width: 100px;"></div>
-            <div class="intro-lead-in"
+            <div data-aos="fade" class="intro-lead-in"
                  style="margin-bottom: 150px;margin-top: 0px;padding-top: 15px;padding-bottom: 15px;margin-right: 100px;margin-left: 100PX;border-top-width: 1px;border-top-style: solid;border-bottom-width: 1px;border-bottom-style: solid;">
                 <span class="text-break text-justify"
                       style="font-size: 40px;margin-bottom: 10px;margin-top: 10px;padding-top: 10px;padding-bottom: 10px;font-family: Thasadith, sans-serif;height: auto;text-align: center;"></span>
@@ -75,13 +77,13 @@
             </div>
             <div class="text-center intro-heading text-uppercase"
                  style="margin-bottom: 50px;margin-right: 100px;margin-left: 100px;">
-                <p class="lead text-capitalize text-center"
+                <p class="lead text-capitalize text-center" data-aos="fade-up" data-aos-duration="500"
                    style="font-size: 22px;color: rgb(255,224,124);font-family: Thasadith, sans-serif;width: 100%;margin-right: 0px;">
                     <strong>Juan Sandoval Y Asociados Esta Por Un Grupo De Abogados Especialistas En inmuebles y
                         propiedades con un incomparable nivel de servicio y amplia experiencia en litigo.</strong><br>
                 </p>
             </div>
-            <a class="btn btn-xl text-uppercase js-scroll-trigger" role="button"
+            <a class="btn bounce animated infinite btn-xl text-uppercase js-scroll-trigger" role="button"
                style="background: rgba(254,209,54,0);border-bottom-style: none;padding-top: 0px;"><img
                     src="assets/img/scroll-icon1.svg" style="width: 30px;"></a>
         </div>
@@ -92,21 +94,23 @@
     <div class="container">
         <div class="row">
             <div class="col" style="border-bottom: 1px solid rgb(0,56,105) ;">
-                <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: normal;">En Juan
+                <h1 data-aos="fade-right"
+                    style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: normal;">En Juan
                     Sandoval y Asociados</h1>
-                <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: normal;">trabajamos para
+                <h1 data-aos="fade-right"
+                    style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: normal;">trabajamos para
                     proteger tu patrimonio.</h1>
             </div>
         </div>
         <div class="row padding-content" style="padding-top: 50px;">
             <div class="col-lg-6 offset-lg-0">
                 <div class="row">
-                    <div class="col">
+                    <div class="col" data-aos="fade-right" data-aos-duration="500" data-aos-delay="300">
                         <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;">¿Quiénes somos?</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
+                    <div class="col" data-aos="fade-right" data-aos-duration="600" data-aos-delay="400">
                         <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
                             A lo largo de 14 años ininterrumpidos, Juan Sandoval y Asociados a buscado consolidarse como
                             una firma líder en cada una de sus especialidades desde su fundación en el 2006 por el Lic.
@@ -114,7 +118,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col">
+                    <div class="col" data-aos="fade-right" data-aos-duration="700" data-aos-delay="500">
                         <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
                             <br>Juan Sandoval y Asociados tiene presencia a lo largo del pais brindando servicios de
                             consultoría, procedimientos administrativos, asuntos relacionados con el sector
@@ -126,7 +130,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col m-auto">
+            <div class="col m-auto" data-aos="fade-right" data-aos-duration="800" data-aos-delay="600">
                 <div class="carousel slide carousel-fade" data-ride="carousel" id="carousel-6">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -156,7 +160,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-auto m-auto" style="margin-top: 30px;">
+            <div class="col-auto m-auto" data-aos="fade-down" data-aos-duration="900" data-aos-delay="200"
+                 style="margin-top: 30px;">
                 <p class="text-center" style="color: rgb(0,56,105);font-weight: 500;font-size: 20px;"><i
                         class="fa fa-quote-left float-left"
                         style="width: 50px;font-size: 51px;color: rgb(255,193,7);"></i>&nbsp; &nbsp; &nbsp; A lo largo
@@ -172,12 +177,12 @@
          style="padding-top: 0px;background: url(&quot;assets/img/textura.png&quot;);padding-bottom: 100px;">
     <div class="container">
         <div class="row" style="padding-top: 50px;">
-            <div class="col" style="border-bottom: 1px none rgb(0,56,105) ;">
+            <div class="col" data-aos="fade-up" data-aos-duration="100" style="border-bottom: 1px none rgb(0,56,105) ;">
                 <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: 700;">Nuestros
                     valores</h1>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up" data-aos-duration="500" data-aos-delay="200">
             <div class="col" style="height: 400px;padding: 0px;">
                 <div id="divconfianza">
                     <div class="card"
@@ -200,7 +205,7 @@
                 </div>
             </div>
             <div class="col-xl-4">
-                <div class="row">
+                <div class="row" data-aos="fade-up" data-aos-duration="500">
                     <div class="col" id="divtranquilidad" style="height: 200px;padding: 0px;">
                         <div class="card"
                              style="background: rgba(255,255,255,0);border-style: none;filter: brightness(60%);">
@@ -222,7 +227,7 @@
                             Tranquilidad</h1>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row" data-aos="fade-up" data-aos-duration="500">
                     <div class="col" id="divpatrimonio" style="height: 200px;padding: 0px;">
                         <div class="card" style="background: rgba(255,255,255,0);border-style: none;">
                             <div class="card-body"
@@ -245,8 +250,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col" id="divcompromiso" style="padding: 0px;height: 300px;">
+        <div class="row" data-aos="fade-up" data-aos-duration="500">
+            <div class="col" data-aos="fade-up" id="divcompromiso" style="padding: 0px;height: 300px;">
                 <div>
                     <div class="card"
                          style="background: url(&quot;assets/img/valores4.jpg&quot;) center / cover, rgba(255,255,255,0);filter: brightness(60%);">
@@ -265,7 +270,8 @@
                 <h1 style="position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;/*opacity: 0;*/transition: .5s ease;/*background-color: #008CBA;*/font-family: Thasadith, sans-serif;padding-right: 30px;padding-left: 30px;font-weight: 400;padding-top: 230px;color: rgb(225,178,24);">
                     Patrimonio</h1>
             </div>
-            <div class="col" id="divbienestar" style="padding: 0px;height: 300px;">
+            <div class="col" data-aos="fade-up" data-aos-duration="500" id="divbienestar"
+                 style="padding: 0px;height: 300px;">
                 <div>
                     <div class="card"
                          style="background: url(&quot;assets/img/qs2.jpg&quot;), rgba(255,255,255,0);background-size: cover, auto;filter: brightness(60%);">
@@ -296,8 +302,9 @@
                     servicios</h1>
             </div>
         </div>
-        <div class="row padding-content" style="padding-top: 50px;">
-            <div class="col-xl-4" id="jsucesorio" style="padding-right: 10px;padding-left: 5px;">
+        <div class="row padding-content" data-aos="fade-right" data-aos-duration="500" style="padding-top: 50px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="jsucesorio"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center"
                          style="background: #003869;padding-bottom: 20px;margin-bottom: 10px;"><img
@@ -314,7 +321,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="jHipotecario" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="jHipotecario"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio2.svg"
@@ -331,7 +339,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="jArrendamiento" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="jArrendamiento"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio3.svg" style="width: 50px;padding-top: 30px;padding-bottom: 30px;">
@@ -347,7 +356,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="jComodato" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="jComodato"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio4.svg"
@@ -364,7 +374,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="rInmueble" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="rInmueble"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio5.svg"
@@ -381,7 +392,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="eContratos" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="eContratos"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio6.svg"
@@ -398,7 +410,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="cVivienda" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="cVivienda"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio7.svg"
@@ -415,7 +428,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="eDesalojos" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="eDesalojos"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio8.svg"
@@ -432,7 +446,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="cInmobiliaria" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="cInmobiliaria"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio9.svg"
@@ -449,7 +464,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="rDespojo" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="rDespojo"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio10.svg"
@@ -466,7 +482,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="lInmobiliario" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="lInmobiliario"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio11.svg"
@@ -483,7 +500,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" id="Inmuebles" style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" data-aos="fade-left" data-aos-duration="500" id="Inmuebles"
+                 style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio12.svg"
@@ -511,14 +529,16 @@
                 <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: 700;">Temas de
                     interés</h1>
                 <div class="row" style="margin-top: 25px;margin-bottom: 0px;">
-                    <div class="col" style="border-bottom: 1px solid rgb(0,56,105);">
+                    <div class="col" data-aos="fade-up" data-aos-duration="500"
+                         style="border-bottom: 1px solid rgb(0,56,105);">
                         <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 30px;">Derecho
                             Hipotecario<a class="btn float-right" role="button" data-toggle="collapse"
                                           data-target="#collapseHipotecario" aria-expanded="false"
                                           aria-controls="collapseHipotecario"></a></h1>
                     </div>
                 </div>
-                <div class="row padding-content collapse" id="collapseHipotecario" style="padding-top: 50px;">
+                <div class="row pulse animated padding-content collapse" id="collapseHipotecario"
+                     style="padding-top: 50px;">
                     <div class="col m-auto"><img src="assets/img/qs1.jpg" style="width: 100%;"></div>
                     <div class="col-lg-6 offset-lg-0">
                         <div class="row">
@@ -563,14 +583,15 @@
                     </div>
                 </div>
                 <div class="row" style="margin-top: 25px;margin-bottom: 0px;">
-                    <div class="col" style="border-bottom: 1px solid rgb(0,56,105);">
+                    <div class="col" data-aos="fade-up" data-aos-duration="500"
+                         style="border-bottom: 1px solid rgb(0,56,105);">
                         <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 30px;">Derecho
                             Civil<a class="btn float-right" role="button" data-toggle="collapse"
                                     data-target="#collapseCivil" aria-expanded="false"
                                     aria-controls="collapseCivilHipotecario"></a></h1>
                     </div>
                 </div>
-                <div class="row padding-content collapse" id="collapseCivil" style="padding-top: 50px;">
+                <div class="row pulse animated padding-content collapse" id="collapseCivil" style="padding-top: 50px;">
                     <div class="col m-auto"><img src="assets/img/qs1.jpg" style="width: 100%;"></div>
                     <div class="col-lg-6 offset-lg-0">
                         <div class="row">
@@ -609,14 +630,16 @@
                     </div>
                 </div>
                 <div class="row" style="margin-top: 25px;margin-bottom: 0px;">
-                    <div class="col" style="border-bottom: 1px solid rgb(0,56,105);">
+                    <div class="col" data-aos="fade-up" data-aos-duration="500"
+                         style="border-bottom: 1px solid rgb(0,56,105);">
                         <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 30px;">Derecho
                             Mercantil<a class="btn float-right" role="button" data-toggle="collapse"
                                         data-target="#collapseMercantil" aria-expanded="false"
                                         aria-controls="collapseMercantil"></a></h1>
                     </div>
                 </div>
-                <div class="row padding-content collapse" id="collapseMercantil" style="padding-top: 50px;">
+                <div class="row pulse animated padding-content collapse" id="collapseMercantil"
+                     style="padding-top: 50px;">
                     <div class="col m-auto"><img src="assets/img/qs1.jpg" style="width: 100%;"></div>
                     <div class="col-lg-6 offset-lg-0">
                         <div class="row">
@@ -646,14 +669,16 @@
                     </div>
                 </div>
                 <div class="row" style="margin-top: 25px;margin-bottom: 0px;">
-                    <div class="col" style="border-bottom: 1px solid rgb(0,56,105);">
+                    <div class="col" data-aos="fade-up" data-aos-duration="500"
+                         style="border-bottom: 1px solid rgb(0,56,105);">
                         <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 30px;">Derecho
                             Familiar<a class="btn float-right" role="button" data-toggle="collapse"
                                        data-target="#collapseFamiliar" aria-expanded="false"
                                        aria-controls="collapseFamiliar"></a></h1>
                     </div>
                 </div>
-                <div class="row padding-content collapse" id="collapseFamiliar" style="padding-top: 50px;">
+                <div class="row pulse animated padding-content collapse" id="collapseFamiliar"
+                     style="padding-top: 50px;">
                     <div class="col m-auto"><img src="assets/img/qs1.jpg" style="width: 100%;"></div>
                     <div class="col-lg-6 offset-lg-0">
                         <div class="row">
@@ -698,14 +723,15 @@
                     </div>
                 </div>
                 <div class="row" style="margin-top: 25px;margin-bottom: 0px;">
-                    <div class="col" style="border-bottom: 1px solid rgb(0,56,105);">
+                    <div class="col" data-aos="fade-up" data-aos-duration="500"
+                         style="border-bottom: 1px solid rgb(0,56,105);">
                         <h1 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 30px;">Derecho
                             Penal<a class="btn float-right" role="button" data-toggle="collapse"
                                     data-target="#collapsePenal" aria-expanded="false"
                                     aria-controls="collapseCivilHipotecario"></a></h1>
                     </div>
                 </div>
-                <div class="row padding-content collapse" id="collapsePenal" style="padding-top: 50px;">
+                <div class="row pulse animated padding-content collapse" id="collapsePenal" style="padding-top: 50px;">
                     <div class="col m-auto"><img src="assets/img/qs1.jpg" style="width: 100%;"></div>
                     <div class="col-lg-6 offset-lg-0">
                         <div class="row">
@@ -724,7 +750,7 @@
                                     y/o medidas de seguridad para sancionar a quienes incurren en la comisión de esos
                                     delitos. Trataremos de forma general al Derecho Penal Sustantivo que es el conjunto
                                     de normas que definen los delitos, las penas y su aplicación.<br></h2><a
-                                    href="temas.php#collapsePenal"
+                                    href="untitled.html/#collapsePenal"
                                     style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Conoce
                                 más&nbsp;<img src="assets/img/go-icon.svg" style="width: 13px;"></a>
                             </div>
