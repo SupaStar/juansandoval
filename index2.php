@@ -42,19 +42,19 @@
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize active js-scroll-trigger" href="#quienes"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#quienes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);">¿quiénes
                     somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize active js-scroll-trigger" href="#valores"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#valores"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">nuestros
                     valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize active js-scroll-trigger" href="#servicios"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#servicios"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Nuestros
                     servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize active js-scroll-trigger" href="temas2.php"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="temas2.php"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);">temas de
                     interés</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize active js-scroll-trigger" href="#contacto"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Contactanos</a>
                 </li>
             </ul>
@@ -771,7 +771,7 @@
         </div>
     </div>
 </section>
-<section data-aos="fade-up" data-aos-duration="900" id="about-2" class="about-us"
+<section data-aos="fade-up" data-aos-duration="900" class="about-us"
          style="padding-top: 50px;padding-bottom: 0px;background: url(&quot;assets/img/footer.jpg&quot;) center / cover no-repeat, rgba(225,178,24,0);">
     <div class="container">
         <div class="row">
@@ -789,9 +789,9 @@
                                                                                                 type="hidden"
                                                                                                 name="Introduction"
                                                                                                 value="This email was sent from www.awebsite.com"><input
-                                class="form-control" type="hidden" name="subject"
-                                value="Awebsite.com Contact Form"><input class="form-control" type="hidden" name="to"
-                                                                         value="email@awebsite.com">
+                                    class="form-control" type="hidden" name="subject"
+                                    value="Awebsite.com Contact Form"><input class="form-control" type="hidden" name="to"
+                                                                             value="email@awebsite.com">
                             <div class="form-row">
                                 <div class="col-md-6">
                                     <div id="successfail"></div>
@@ -799,9 +799,7 @@
                             </div>
                             <div class="form-row">
                                 <div class="col-12 col-md-6" id="message">
-                                    <div class="form-group"><label for="from-phone"
-                                                                   style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-weight: 700;">Obligatorios</label><span
-                                            class="required-input">*</span>
+                                    <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend"></div>
                                             <input class="form-control" type="text" id="from-name" name="name"
@@ -833,7 +831,7 @@
                                                 <div class="input-group">
                                                     <div class="input-group-prepend"></div>
                                                     <input class="form-control" type="text" id="from-phone-1"
-                                                           name="phone" required="" placeholder="Primary Phone"
+                                                           name="phone" required="" placeholder="Número de Celular*"
                                                            style="border-radius: 8px;font-family: Thasadith, sans-serif;">
                                                 </div>
                                             </div>
@@ -846,12 +844,21 @@
                                     <div class="form-group">
                                         <div class="form-row">
                                             <div class="col">
+                                                <label class="float-left" for="from-phone"
+                                                       style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-weight: 700;">Obligatorios</label><span
+                                                        class="required-input">*</span>
+                                            </div>
+                                            <div class="col">
+
                                                 <button class="btn float-right" type="button"
                                                         style="background: #003869;color: rgb(255,255,255);border-radius: 8px;width: 150px;">
                                                     Enviar
                                                 </button>
                                             </div>
+
+
                                         </div>
+
                                     </div>
                                     <hr class="d-flex d-md-none">
                                 </div>
@@ -860,10 +867,10 @@
                                 <div class="col-12 col-md-6" id="message-1">
                                     <div class="form-group"><label for="from-phone"
                                                                    style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Consulta
-                                        nuestros&nbsp;<a href="#" style="color: rgb(0,56,105);">Términos y
-                                            Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="#"
-                                                                                    style="color: rgb(0,56,105);">Aviso
-                                            de Privacidad.</a></label>
+                                            nuestros&nbsp;<a href="#" style="color: rgb(0,56,105);">Términos y
+                                                Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="#"
+                                                                                        style="color: rgb(0,56,105);">Aviso
+                                                de Privacidad.</a></label>
                                         <div class="input-group">
                                             <div class="input-group-prepend"></div>
                                         </div>
@@ -878,16 +885,16 @@
                                 <div class="modal-header">
                                     <h4 class="modal-title">Contact Information</h4>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-                                            aria-hidden="true">×</span></button>
+                                                aria-hidden="true">×</span></button>
                                 </div>
                                 <div class="modal-body">
                                     <form id="contactForm" action="javascript:void(0);" method="get"><input
-                                            class="form-control" type="hidden" name="Introduction"
-                                            value="This email was sent from www.awebsite.com"><input
-                                            class="form-control" type="hidden" name="subject"
-                                            value="Awebsite.com Contact Form"><input class="form-control" type="hidden"
-                                                                                     name="to"
-                                                                                     value="email@awebsite.com">
+                                                class="form-control" type="hidden" name="Introduction"
+                                                value="This email was sent from www.awebsite.com"><input
+                                                class="form-control" type="hidden" name="subject"
+                                                value="Awebsite.com Contact Form"><input class="form-control" type="hidden"
+                                                                                         name="to"
+                                                                                         value="email@awebsite.com">
                                         <div class="form-row">
                                             <div class="col-md-6">
                                                 <div id="successfail"></div>
@@ -896,21 +903,21 @@
                                         <div class="form-row">
                                             <div class="col-12 col-md-6" id="message">
                                                 <h2 class="h4"><i class="fa fa-envelope"></i> Contact Us<small><small
-                                                        class="required-input">&nbsp;(*required)</small></small></h2>
+                                                                class="required-input">&nbsp;(*required)</small></small></h2>
                                                 <div class="form-group"><label for="from-name">Name</label><span
-                                                        class="required-input">*</span>
+                                                            class="required-input">*</span>
                                                     <div class="input-group">
                                                         <div class="input-group-prepend"><span class="input-group-text"><i
-                                                                class="fa fa-user-o"></i></span></div>
+                                                                        class="fa fa-user-o"></i></span></div>
                                                         <input class="form-control" type="text" id="from-name"
                                                                name="name" required="" placeholder="Full Name">
                                                     </div>
                                                 </div>
                                                 <div class="form-group"><label for="from-email">Email</label><span
-                                                        class="required-input">*</span>
+                                                            class="required-input">*</span>
                                                     <div class="input-group">
                                                         <div class="input-group-prepend"><span class="input-group-text"><i
-                                                                class="fa fa-envelope-o"></i></span></div>
+                                                                        class="fa fa-envelope-o"></i></span></div>
                                                         <input class="form-control" type="text" id="from-email"
                                                                name="email" required="" placeholder="Email Address">
                                                     </div>
@@ -918,25 +925,25 @@
                                                 <div class="form-row">
                                                     <div class="col-12 col-sm-6 col-md-12 col-lg-6">
                                                         <div class="form-group"><label
-                                                                for="from-phone">Phone</label><span
-                                                                class="required-input">*</span>
+                                                                    for="from-phone">Phone</label><span
+                                                                    class="required-input">*</span>
                                                             <div class="input-group">
                                                                 <div class="input-group-prepend"><span
-                                                                        class="input-group-text"><i
-                                                                        class="fa fa-phone"></i></span></div>
+                                                                            class="input-group-text"><i
+                                                                                class="fa fa-phone"></i></span></div>
                                                                 <input class="form-control" type="text" id="from-phone"
                                                                        name="phone" required=""
-                                                                       placeholder="Primary Phone">
+                                                                       placeholder="Numero de celular*">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-12 col-sm-6 col-md-12 col-lg-6">
                                                         <div class="form-group"><label for="from-calltime">Best Time to
-                                                            Call</label>
+                                                                Call</label>
                                                             <div class="input-group">
                                                                 <div class="input-group-prepend"><span
-                                                                        class="input-group-text"><i
-                                                                        class="fa fa-clock-o"></i></span></div>
+                                                                            class="input-group-text"><i
+                                                                                class="fa fa-clock-o"></i></span></div>
                                                                 <select class="form-control" id="from-calltime"
                                                                         name="call time">
                                                                     <optgroup label="Best Time to Call">
@@ -951,14 +958,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="form-group"><label
-                                                        for="from-comments">Comments</label><textarea
-                                                        class="form-control" id="from-comments" name="comments"
-                                                        placeholder="Enter Comments" rows="5"></textarea></div>
+                                                            for="from-comments">Comments</label><textarea
+                                                            class="form-control" id="from-comments" name="comments"
+                                                            placeholder="Enter Comments" rows="5"></textarea></div>
                                                 <div class="form-group">
                                                     <div class="form-row">
                                                         <div class="col">
                                                             <button class="btn btn-primary btn-block" type="reset"><i
-                                                                    class="fa fa-undo"></i> Reset
+                                                                        class="fa fa-undo"></i> Reset
                                                             </button>
                                                         </div>
                                                         <div class="col">
@@ -1002,6 +1009,31 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 <script src="assets/js/script.min.js"></script>
+<script>
+    $(document).ready(function()
+    {
+        $("#collapseHipotecario").collapse('show')
+
+    })
+</script>
+<script>
+    $(window).scroll(function() {
+        var height = $(window).scrollTop();
+        if (height > 100) {
+            $('#back2Top').fadeIn();
+        } else {
+            $('#back2Top').fadeOut();
+        }
+    });
+    $(document).ready(function() {
+        $("#back2Top").click(function(event) {
+            event.preventDefault();
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            return false;
+        });
+
+    });
+</script>
 </body>
 
 </html>
