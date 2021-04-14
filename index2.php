@@ -89,6 +89,7 @@
         </div>
     </div>
 </header>
+
 <section data-aos="fade-down" data-aos-duration="450" id="quienes" class="about-us"
          style="padding-top: 100px;padding-bottom: 100px;">
     <div class="container">
@@ -315,14 +316,11 @@
                 <div id="overlay-1">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Se refiere al procedimiento que permite determinar y declarar quiénes serán los herederos de los bienes de una persona después de fallecida, sobre todo en los casos en los que no exista testamento.<br></p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4" data-aos="fade-right" data-aos-duration="500" id="jHipotecario"
-                 style="padding-right: 10px;padding-left: 5px;">
+            <div class="col-xl-4" id="jHipotecario" style="padding-right: 10px;padding-left: 5px;">
                 <div class="card">
                     <div class="card-body text-center" style="background: #003869;margin-bottom: 10px;"><img
                             src="assets/img/servicio2.svg"
@@ -333,9 +331,7 @@
                 <div id="overlay-2">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Representación en relación con las operaciones de préstamos comerciales y residenciales. También nos ocupamos de las ejecuciones hipotecarias.<br></p>
                     </div>
                 </div>
             </div>
@@ -350,9 +346,7 @@
                 <div id="overlay-3">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Somos un despacho de abogados expertos en juicios de arrendamiento que le apoyará con la negociación y preparación de un litigio de arrendamiento.<br></p>
                     </div>
                 </div>
             </div>
@@ -368,9 +362,7 @@
                 <div id="overlay-4">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Si cuenta con un inmueble entregado en comodato sin celebración de contrato por escrito, nuestro bufete de abogados le ayudaremos a la recuperación de su propiedad.<br></p>
                     </div>
                 </div>
             </div>
@@ -386,9 +378,7 @@
                 <div id="overlay-5">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 20px;">Si tienes un inmueble en una situación irregular, este es el momento de actuar. No esperes más, nosotros te ayudamos a escriturar. Nuestros abogados especialistas en inmuebles te asesorarán para informarte del procedimiento idóneo para regularizar tu inmueble.<br></p>
                     </div>
                 </div>
             </div>
@@ -404,9 +394,7 @@
                 <div id="overlay-6">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Un contrato de arrendamiento bien negociado y sin ambigüedades es crucial para la mayoría de las empresas que utilizan oficinas arrendadas, tiendas u otras instalaciones como un componente vital de una operación comercial.<br></p>
                     </div>
                 </div>
             </div>
@@ -422,9 +410,7 @@
                 <div id="overlay-7">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 10px;font-size: 13px;">Comprar una casa o una propiedad no es cosa de todos los días y antes de firmar contratos de compraventa de inmuebles, debes asesorarte por expertos para conocer si lo que compras te va a brindar la seguridad jurídica que necesitas y no arriesgar tu patrimonio, antes de firmar este tipo de contratos debemos revisar muy bien las condiciones que pactamos y la viabilidad de del inmueble.<br></p>
                     </div>
                 </div>
             </div>
@@ -440,9 +426,7 @@
                 <div id="overlay-8">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Planificamos la recuperación de tu inmueble y maximizamos su seguridad jurídica frente a terceros, inquilinos morosos o deudores y/o invasores, paracaidistas.<br></p>
                     </div>
                 </div>
             </div>
@@ -458,9 +442,7 @@
                 <div id="overlay-9">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Se realiza el desalojo de inquilinos morosos, así como recuperar adeudos, mediante el embargo precautorio de bienes o activos que lo garanticen.<br></p>
                     </div>
                 </div>
             </div>
@@ -476,9 +458,7 @@
                 <div id="overlay-10">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Se recupera la posesión de tu inmueble, mediante el desalojo de la persona que no es la propietaria, comúnmente llamados invasores o paracaidistas.<br></p>
                     </div>
                 </div>
             </div>
@@ -494,9 +474,7 @@
                 <div id="overlay-11">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 30px;">Como abogados inmobiliarios sumamos amplia experiencia en litigios que derivan del arrendamiento de inmuebles o invasión de los mismos, obteniendo el desalojo del arrendatario, inquilino o paracaidista invasor.<br></p>
                     </div>
                 </div>
             </div>
@@ -512,9 +490,7 @@
                 <div id="overlay-12">
                     <div class="col m-auto"
                          style="padding-right: 30px;padding-left: 30px;padding-top: 0px;height: 300px;">
-                        <p class="text-center" style="font-family: Thasadith, sans-serif;padding-top: 50px;">Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis.<br></p>
+                        <p class="text-center" style="font-family: Thasadith, sans-serif;font-size:10px;padding-top: 30px;">Regularización, recuperación o adjudicación de inmuebles por créditos hipotecarios. Podemos asesorar y llevar juicios para demandar el cumplimiento forzoso de un contrato o la rescisión de un contrato por incumplimiento ya sea de compraventa (de bienes inmuebles o muebles) reconocimiento de adeudo, de construcción, de suministro, de prestación de servicios, de maquila, de arrendamiento financiero, de obra a precio alzado.<br></p>
                     </div>
                 </div>
             </div>
