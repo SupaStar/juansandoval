@@ -64,7 +64,7 @@
         </div>
     </div>
 </nav>
-<header data-aos="fade" data-aos-duration="900" class="masthead" style="background: url(&quot;assets/img/slider1.jpg&quot;) center / cover no-repeat;">
+<header data-aos="fade" data-aos-duration="900" class="masthead" style="background: url(&quot;assets/img/header-temas.jpg&quot;) center / cover no-repeat;">
 <div class="container" id="header" style="max-width: 100%;background: rgba(10,10,10,0.49);">
         <div class="intro-text" style="padding-top: 70px;padding-bottom: 200px;">
             <div class="intro-lead-in" style="margin-bottom: 0px;margin-top: 0px;padding-top: 15px;padding-bottom: 15px;margin-right: 100px;margin-left: 100px;"><span class="text-break text-justify" style="font-size: 40px;margin-bottom: 10px;margin-top: 10px;padding-top: 10px;padding-bottom: 10px;font-family: Thasadith, sans-serif;height: auto;text-align: center;"></span>
