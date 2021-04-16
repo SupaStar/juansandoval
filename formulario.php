@@ -1,8 +1,10 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
-require ("src/PHPMailer.php");
-require ("src/SMTP.php");
-require ("src/Exception.php");
+
+require("src/PHPMailer.php");
+require("src/SMTP.php");
+require("src/Exception.php");
 $mail = new PHPMailer(true);
 try {
     $mail->SMTPOptions = array(
@@ -15,8 +17,8 @@ try {
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'pruebasmodulo5cetis@gmail.com';
-    $mail->Password = 'Ulisestortuga1';
+    $mail->Username = 't27trabajo@gmail.com';
+    $mail->Password = 'contrateveinti';
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
     $mail->setFrom($_POST['correo'], $_POST['nombre']);
@@ -24,11 +26,11 @@ try {
     $mail->isHTML(true);
     $mail->Subject = 'Te contactaron en el formulario de tu sitio web';
     $fijo = ' ';
-    if (isset($_POST['nfijo '])){
+    if (isset($_POST['nfijo '])) {
         $fijo = ' Mi numero de telefono fijo es: ' . $_POST['nfijo '] . ' ';
     }
     $telefono = 'Mi telefono de celular es: ' . $_POST['ncelular'] . ' te contacte con el siguiente asunto:';
-    $mensaje = "Mi nombre es: " . $_POST['nombre'] . $fijo . $telefono .'<div>'. $_POST['asunto'].'</div>';
+    $mensaje = "Mi nombre es: " . $_POST['nombre'] . $fijo . $telefono . '<div>Mi correo es: ' . $_POST['correo'] . '</div>' . '<div>' . $_POST['asunto'] . '</div>';
     $mail->Body = $mensaje;
     $mail->send();
 } catch (Exception $e) {
