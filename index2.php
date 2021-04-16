@@ -982,31 +982,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 <script src="assets/js/script.min.js"></script>
-<script>
-    $(document).ready(function()
-    {
-        $("#collapseHipotecario").collapse('show')
-
-    })
-</script>
-<script>
-    $(window).scroll(function() {
-        var height = $(window).scrollTop();
-        if (height > 100) {
-            $('#back2Top').fadeIn();
-        } else {
-            $('#back2Top').fadeOut();
-        }
-    });
-    $(document).ready(function() {
-        $("#back2Top").click(function(event) {
-            event.preventDefault();
-            $("html, body").animate({ scrollTop: 0 }, "slow");
-            return false;
-        });
-
-    });
-</script>
+<script src="assets/js/collapseds.js"></script>
 </body>
 
 </html>

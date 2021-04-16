@@ -121,7 +121,12 @@ p.hero-subtitle {
 }
 
 .btn.float-right[aria-expanded=true] {
-    background: url(../../assets/img/cerrar.svg) no-repeat
+    background: url(../../assets/img/cerrar.svg) no-repeat;
+
+}
+.btn.float-right[aria-expanded=true]->#collapseCivil {
+    opacity:0;
+
 }
 
 #contactForm .h4 {
