@@ -80,11 +80,12 @@ p.hero-subtitle {
 }
 
 #Inmuebles:hover .card, #cInmobiliaria:hover .card, #cVivienda:hover .card, #divbienestar:hover .card, #divbienestar:hover h1, #divcompromiso:hover .card,#divcompromiso:hover h1, #divconfianza:hover .card, #divconfianza:hover h1, #divpatrimonio:hover .card,#divpatrimonio:hover h1, #divtranquilidad:hover .card,#divtranquilidad:hover h1, #eContratos:hover .card, #eDesalojos:hover .card, #jArrendamiento:hover .card, #jComodato:hover .card, #jHipotecario:hover .card, #jsucesorio:hover .card, #lInmobiliario:hover .card, #rDespojo:hover .card, #rInmueble:hover .card {
-    opacity: 0
+    visibility: hidden;
 }
 
-#Inmuebles:hover #overlay-12, #cInmobiliaria:hover #overlay-9, #cVivienda:hover #overlay-7, #divbienestar:hover #overlay5,#divbienestar:hover #overlay5 h1, #divcompromiso:hover #overlay4,#divcompromiso:hover #overlay4 h1, #divconfianza:hover #overlay,#divconfianza:hover #overlay h1, #divpatrimonio:hover #overlay3,#divpatrimonio:hover #overlay3 h1, #divtranquilidad:hover #overlay2,#divtranquilidad:hover #overlay2 h1, #eContratos:hover #overlay-6, #eDesalojos:hover #overlay-8, #jArrendamiento:hover #overlay-3, #jComodato:hover #overlay-4, #jComodato:hover .card, #jHipotecario:hover #overlay-2, #jsucesorio:hover #overlay-1, #lInmobiliario:hover #overlay-11, #rDespojo:hover #overlay-10, #rInmueble:hover #overlay-5 {
-    opacity: 1
+#Inmuebles:hover #overlay-12, #Inmuebles:hover #overlay-12 h1, #cInmobiliaria:hover #overlay-9, #cVivienda:hover #overlay-7, #divbienestar:hover #overlay5,#divbienestar:hover #overlay5 h1, #divcompromiso:hover #overlay4,#divcompromiso:hover #overlay4 h1, #divconfianza:hover #overlay,#divconfianza:hover #overlay h1, #divpatrimonio:hover #overlay3,#divpatrimonio:hover #overlay3 h1, #divtranquilidad:hover #overlay2,#divtranquilidad:hover #overlay2 h1, #eContratos:hover #overlay-6, #eDesalojos:hover #overlay-8, #jArrendamiento:hover #overlay-3, #jComodato:hover #overlay-4, #jComodato:hover .card, #jHipotecario:hover #overlay-2, #jsucesorio:hover #overlay-1, #lInmobiliario:hover #overlay-11, #rDespojo:hover #overlay-10, #rInmueble:hover #overlay-5 {
+    opacity: 1;
+    visibility: visible;
 }
 
 #overlay2,  #overlay3, #overlay4, #overlay5 {
