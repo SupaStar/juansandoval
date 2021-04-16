@@ -30,7 +30,7 @@ try {
         $fijo = ' Mi numero de telefono fijo es: ' . $_POST['nfijo '] . ' ';
     }
     $telefono = 'Mi telefono de celular es: ' . $_POST['ncelular'] . ' te contacte con el siguiente asunto:';
-    $mensaje = "Mi nombre es: " . $_POST['nombre'] . $fijo . $telefono . '<div>Mi correo es: ' . $_POST['correo'] . '</div>' . '<div>' . $_POST['asunto'] . '</div>';
+    $mensaje = '<div>Mi correo es: ' . $_POST['correo'] . '</div>' . '<div>' ."Mi nombre es: " . $_POST['nombre'] . $fijo . $telefono . $_POST['asunto'] . '</div>';
     $mail->Body = $mensaje;
     $mail->send();
 } catch (Exception $e) {
