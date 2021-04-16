@@ -17,17 +17,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 </head>
 
-<body>
-<a id="back2Top" title="Back to top" href="#"><i style="color:#003869;" class="fa fa-arrow-circle-up"></i></a>
-
-<nav class="navbar navbar-light navbar-expand-md sticky-top" style="height: 40px;padding: 0px;background: #003869;">
+<body id="page-top">
+<nav class="navbar navbar-light navbar-expand-md sticky-top" style="height: 50px;padding: 0px;background: #003869;">
     <div class="container-fluid">
         <div class="col text-right">
             <div class="row text-right">
                 <div class="col" style="font-size: 4px;padding-left: 15px;padding-right: 5px;">
                     <h1 style="font-size: 12px;color: rgb(255,255,255);font-family: Thasadith, sans-serif;margin-top: 8px;">
-                        <i class="fa fa-phone" style="color: rgb(255,214,0);"></i>&nbsp;56 1164 8763&nbsp; |&nbsp;
-                        &nbsp;<i class="fa fa-envelope-o" style="color: rgb(255,214,0);"></i>&nbsp;contactanos@juansandoval.com.mx
+                        <i class="fa fa-phone" style="color: rgb(255,214,0);"></i>&nbsp; 56 1164 8763&nbsp; |&nbsp;
+                        &nbsp;<i class="fa fa-envelope-o" style="color: rgb(255,214,0);"></i>&nbsp; contactanos@juansandoval.com.mx
                     </h1>
                 </div>
             </div>
@@ -35,13 +33,13 @@
     </div>
 </nav>
 <nav class="navbar navbar-light navbar-expand-sm sticky-top bg-light d-flex justify-content-center" id="mainNav"
-     style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;">
+     style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;min-height:90px">
     <div class="container-fluid"><a class="navbar-brand"
                                     style="margin-left: 0px;padding-left: 0px;padding-right: 0px;margin-right: 0px;"
                                     href="index.php#header"><img src="assets/img/logo%20header.svg" style="width: 150px;"></a>
         <button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right"
                 type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i
-                    class="fa fa-bars"></i></button>
+                class="fa fa-bars"></i></button>
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">

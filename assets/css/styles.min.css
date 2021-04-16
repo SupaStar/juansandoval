@@ -7,6 +7,15 @@ div.jumbotron.carousel-hero {
     padding-bottom: 100px;
     margin-bottom: 0
 }
+/* Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 992px)
+{
+    header.masthead .intro-text .intro-lead-in
+  {
+      margin-right: 200px !important;
+      margin-left: 200px !important;
+  }
+}
 #back2Top {
     width: 40px;
     line-height: 40px;
@@ -70,15 +79,15 @@ p.hero-subtitle {
     background-color: #008cba
 }
 
-#Inmuebles:hover .card, #cInmobiliaria:hover .card, #cVivienda:hover .card, #divbienestar:hover .card, #divcompromiso:hover .card, #divconfianza:hover .card, #divpatrimonio:hover .card, #divtranquilidad:hover .card, #eContratos:hover .card, #eDesalojos:hover .card, #jArrendamiento:hover .card, #jComodato:hover .card, #jHipotecario:hover .card, #jsucesorio:hover .card, #lInmobiliario:hover .card, #rDespojo:hover .card, #rInmueble:hover .card {
+#Inmuebles:hover .card, #cInmobiliaria:hover .card, #cVivienda:hover .card, #divbienestar:hover .card, #divbienestar:hover h1, #divcompromiso:hover .card,#divcompromiso:hover h1, #divconfianza:hover .card, #divconfianza:hover h1, #divpatrimonio:hover .card,#divpatrimonio:hover h1, #divtranquilidad:hover .card,#divtranquilidad:hover h1, #eContratos:hover .card, #eDesalojos:hover .card, #jArrendamiento:hover .card, #jComodato:hover .card, #jHipotecario:hover .card, #jsucesorio:hover .card, #lInmobiliario:hover .card, #rDespojo:hover .card, #rInmueble:hover .card {
     opacity: 0
 }
 
-#Inmuebles:hover #overlay-12, #cInmobiliaria:hover #overlay-9, #cVivienda:hover #overlay-7, #divbienestar:hover #overlay5, #divcompromiso:hover #overlay4, #divconfianza:hover #overlay, #divpatrimonio:hover #overlay3, #divtranquilidad:hover #overlay2, #eContratos:hover #overlay-6, #eDesalojos:hover #overlay-8, #jArrendamiento:hover #overlay-3, #jComodato:hover #overlay-4, #jComodato:hover .card, #jHipotecario:hover #overlay-2, #jsucesorio:hover #overlay-1, #lInmobiliario:hover #overlay-11, #rDespojo:hover #overlay-10, #rInmueble:hover #overlay-5 {
+#Inmuebles:hover #overlay-12, #cInmobiliaria:hover #overlay-9, #cVivienda:hover #overlay-7, #divbienestar:hover #overlay5,#divbienestar:hover #overlay5 h1, #divcompromiso:hover #overlay4,#divcompromiso:hover #overlay4 h1, #divconfianza:hover #overlay,#divconfianza:hover #overlay h1, #divpatrimonio:hover #overlay3,#divpatrimonio:hover #overlay3 h1, #divtranquilidad:hover #overlay2,#divtranquilidad:hover #overlay2 h1, #eContratos:hover #overlay-6, #eDesalojos:hover #overlay-8, #jArrendamiento:hover #overlay-3, #jComodato:hover #overlay-4, #jComodato:hover .card, #jHipotecario:hover #overlay-2, #jsucesorio:hover #overlay-1, #lInmobiliario:hover #overlay-11, #rDespojo:hover #overlay-10, #rInmueble:hover #overlay-5 {
     opacity: 1
 }
 
-#overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9, #overlay2, #overlay3, #overlay4, #overlay5 {
+#overlay2,  #overlay3, #overlay4, #overlay5 {
     background: #e1b218;
     position: absolute;
     top: 0;
@@ -90,6 +99,19 @@ p.hero-subtitle {
     transition: .5s;
     opacity: 0
 }
+#overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9 {
+    background: #e1b218;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 6px;
+    right: 15px;
+    height: 94%;
+    width: 95.5%;
+    transition: .5s;
+    opacity: 0;
+}
+
 
 .btn.float-right {
     background: url(../../assets/img/abrir.svg) 0 0/contain no-repeat;

@@ -17,14 +17,14 @@
 </head>
 
 <body id="page-top">
-<nav class="navbar navbar-light navbar-expand-md sticky-top" style="height: 25px;padding: 0px;background: #003869;">
+<nav class="navbar navbar-light navbar-expand-md sticky-top" style="height: 50px;padding: 0px;background: #003869;">
     <div class="container-fluid">
         <div class="col text-right">
             <div class="row text-right">
                 <div class="col" style="font-size: 4px;padding-left: 15px;padding-right: 5px;">
                     <h1 style="font-size: 12px;color: rgb(255,255,255);font-family: Thasadith, sans-serif;margin-top: 8px;">
-                        <i class="fa fa-phone" style="color: rgb(255,214,0);"></i>&nbsp;56 1164 8763&nbsp; |&nbsp;
-                        &nbsp;<i class="fa fa-envelope-o" style="color: rgb(255,214,0);"></i>&nbsp;contactanos@juansandoval.com.mx
+                        <i class="fa fa-phone" style="color: rgb(255,214,0);"></i>&nbsp; 56 1164 8763&nbsp; |&nbsp;
+                        &nbsp;<i class="fa fa-envelope-o" style="color: rgb(255,214,0);"></i>&nbsp; contactanos@juansandoval.com.mx
                     </h1>
                 </div>
             </div>
@@ -32,7 +32,7 @@
     </div>
 </nav>
 <nav class="navbar navbar-light navbar-expand-sm sticky-top bg-light d-flex justify-content-center" id="mainNav"
-     style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;">
+     style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;min-height:90px">
     <div class="container-fluid"><a class="navbar-brand"
                                     style="margin-left: 0px;padding-left: 0px;padding-right: 0px;margin-right: 0px;"
                                     href="#header"><img src="assets/img/logo%20header.svg" style="width: 150px;"></a>
@@ -78,8 +78,8 @@
             <div class="text-center intro-heading text-uppercase"
                  style="margin-bottom: 50px;margin-right: 100px;margin-left: 100px;">
                 <p class="lead text-capitalize text-center" data-aos="fade-up" data-aos-duration="500"
-                   style="font-size: 22px;color: rgb(255,224,124);font-family: Thasadith, sans-serif;width: 100%;margin-right: 0px;">
-                    <strong>Juan Sandoval Y Asociados Esta Por Un Grupo De Abogados Especialistas En inmuebles y
+                   style="font-size: 22px;color: rgb(255,224,124);font-family: Thasadith, sans-serif;width: 58%;margin:auto;max-width:100%">
+                    <strong>Juan Sandoval Y Asociados esta por Un Grupo De Abogados Especialistas En inmuebles y
                         propiedades con un incomparable nivel de servicio y amplia experiencia en litigo.</strong><br>
                 </p>
             </div>
@@ -165,10 +165,7 @@
                  style="margin-top: 30px;">
                 <p class="text-center" style="color: rgb(0,56,105);font-weight: 500;font-size: 20px;"><i
                         class="fa fa-quote-left float-left"
-                        style="width: 50px;font-size: 51px;color: rgb(255,193,7);"></i>&nbsp; &nbsp; &nbsp; A lo largo
-                    de 14 años ininterrumpidos, Juan Sandoval y Asociados a buscado consolidarse como una firma líder en
-                    cada una de sus especialidades desde su fundación en el 2006 por el Lic. Juan Luis Sandoval
-                    Villalobos<i class="fa fa-quote-right float-right"
+                        style="width: 50px;font-size: 51px;color: rgb(255,193,7);"></i>&nbsp; &nbsp; &nbsp; Juan Sandoval y Asociados nunca ha tenido, no tiene, ni tendrá la intención de competir con ningún despacho de México, ni en número de clientes, volumen de asuntos, o número de integrantes; nuestro perfil se enfoca en atender los asuntos más complejos y de trascendencia, dando la seguridad que el cliente al darnos la confianza para representarlo, el resultado será satisfactorio para el mismo.<i class="fa fa-quote-right float-right"
                                  style="width: 50px;font-size: 51px;color: rgb(255,193,7);"></i></p>
             </div>
         </div>
@@ -177,8 +174,8 @@
 <section data-aos="fade-up" data-aos-duration="950" id="valores" class="about-us"
          style="padding-top: 0px;background: url(&quot;assets/img/textura.png&quot;);padding-bottom: 100px;">
     <div class="container">
-        <div class="row" style="padding-top: 50px;">
-            <div class="col" data-aos="fade-up" data-aos-duration="100" style="border-bottom: 1px none rgb(0,56,105) ;">
+        <div class="row" style="padding-top: 75px;">
+            <div class="col" style="border-bottom: 1px none rgb(0,56,105) ;">
                 <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;font-weight: 700;">Nuestros
                     valores</h1>
             </div>
