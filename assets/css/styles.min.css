@@ -15,6 +15,11 @@ div.jumbotron.carousel-hero {
       margin-right: 200px !important;
       margin-left: 200px !important;
   }
+}@media (max-width: 991px)
+{
+    #divcaps p{
+        height: 80px !important;
+    }
 }
 #back2Top {
     width: 40px;
@@ -64,6 +69,9 @@ p.hero-subtitle {
     margin: 25px auto;
     padding: 10px 15px;
     color: #fff
+}
+#divcaps p{
+    height: 80px;
 }
 
 #overlay {
