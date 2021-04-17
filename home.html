@@ -7,6 +7,11 @@
     <meta property="og:type" content="website">
     <link rel="icon" type="image/svg+xml" sizes="155x150" href="assets/img/logo-slider.svg">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+    <!-- Default theme -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Thasadith">
@@ -733,7 +738,7 @@
             <div class="col">
                 <div>
                     <div class="container-fluid" style="padding-right: 0px;padding-left: 0px;">
-                        <form id="formcontacto">
+                        <form id="formcontacto" method="post" action="formulario.php">
 
                             <div class="form-row">
                                 <div class="col-12 col-md-6" id="message">
@@ -741,7 +746,7 @@
                                         <div class="input-group">
                                             <div class="input-group-prepend"></div>
                                             <input class="form-control" type="text" id="nombre" name="nombre"
-                                                   required="" placeholder="Nombre Completo*"
+                                                   required placeholder="Nombre Completo*"
                                                    style="font-family: Thasadith, sans-serif;border-width: 0px;border-style: solid;border-radius: 8px;">
                                         </div>
                                     </div>
@@ -749,7 +754,7 @@
                                         <div class="input-group">
                                             <div class="input-group-prepend"></div>
                                             <input class="form-control" type="text" id="correo" name="correo"
-                                                   required="" placeholder="Correo Electrónico*"
+                                                   required placeholder="Correo Electrónico*"
                                                    style="border-radius: 8px;font-family: Thasadith, sans-serif;">
                                         </div>
                                     </div>
@@ -758,8 +763,8 @@
                                             <div class="form-group">
                                                 <div class="input-group">
                                                     <div class="input-group-prepend"></div>
-                                                    <input class="form-control" type="text" id="nfijo" name="nfijo"
-                                                           required="" placeholder="Número Fijo"
+                                                    <input class="form-control" minlength="10" maxlength="10" type="number" id="nfijo" name="nfijo"
+                                                            placeholder="Número Fijo"
                                                            style="font-family: Thasadith, sans-serif;border-radius: 8px;">
                                                 </div>
                                             </div>
@@ -768,14 +773,14 @@
                                             <div class="form-group">
                                                 <div class="input-group">
                                                     <div class="input-group-prepend"></div>
-                                                    <input class="form-control" type="text" id="ncelular"
-                                                           name="ncelular" required="" placeholder="Número de Celular*"
+                                                    <input class="form-control" minlength="10" maxlength="10" type="number" id="ncelular"
+                                                           name="ncelular" required placeholder="Número de Celular*"
                                                            style="border-radius: 8px;font-family: Thasadith, sans-serif;">
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="form-group"><textarea class="form-control" id="asunto"
+                                    <div class="form-group"><textarea required class="form-control" id="asunto"
                                                                       name="asunto" placeholder="Asunto*" rows="5"
                                                                       style="border-radius: 8px;font-family: Thasadith, sans-serif;"></textarea>
                                     </div>
@@ -788,7 +793,7 @@
                                             </div>
                                             <div class="col">
 
-                                                <button id="btnEnviarform" class="btn float-right" type="button"
+                                                <button id="btnEnviarform" class="btn float-right" type="submit"
                                                         style="background: #003869;color: rgb(255,255,255);border-radius: 8px;width: 150px;">
                                                     Enviar
                                                 </button>
@@ -850,6 +855,7 @@
 <script src="assets/js/script.min.js"></script>
 <script src="assets/js/collapseds.js"></script>
 <script src="assets/js/formulario.js"></script>
+<script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
 
 </body>
 

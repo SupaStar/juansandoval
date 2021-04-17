@@ -33,6 +33,7 @@ try {
     $mensaje = '<div>Mi correo es: ' . $_POST['correo'] . '</div>' . '<div>' ."Mi nombre es: " . $_POST['nombre'] . $fijo . $telefono . $_POST['asunto'] . '</div>';
     $mail->Body = $mensaje;
     $mail->send();
+    header('Location: '.'index.php');
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
