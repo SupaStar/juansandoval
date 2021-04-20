@@ -15,14 +15,14 @@ try {
         )
     );
     $mail->isSMTP();
-    $mail->Host = 'smtp.gmail.com';
+    $mail->Host = 'tricab.mail.pairserver.com';
     $mail->SMTPAuth = true;
-    $mail->Username = 'GyPfarmacias@gmail.com';
-    $mail->Password = ']h@S2zpX)0m;';
+    $mail->Username = 'contactanos@juansandoval.com.mx';
+    $mail->Password = 'Admin010';
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
     $mail->setFrom($_POST['correo'], $_POST['nombre']);
-    $mail->addAddress('alfredomendez60@gmail.com', 'Alfredo');
+    $mail->addAddress('contactanos@juansandoval.com.mx', 'Contacto Juan Sandoval');
     $mail->isHTML(true);
     $mail->Subject = 'Te contactaron en el formulario de tu sitio web';
     $fijo = ' ';
