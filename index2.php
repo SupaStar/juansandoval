@@ -79,7 +79,7 @@
                  style="margin-bottom: 50px;margin-right: 100px;margin-left: 100px;">
                 <p class="lead text-capitalize text-center" data-aos="fade-up" data-aos-duration="500"
                    style="font-size: 22px;color: rgb(255,224,124);font-family: Thasadith, sans-serif;width: 58%;margin:auto;max-width:100%">
-                    <strong>Juan Sandoval Y Asociados esta por Un Grupo De Abogados Especialistas En inmuebles y
+                    <strong>Juan Sandoval Y Asociados esta por un grupo de abogados especialistas en inmuebles y
                         propiedades con un incomparable nivel de servicio y amplia experiencia en litigo.</strong><br>
                 </p>
             </div>

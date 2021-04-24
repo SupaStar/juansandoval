@@ -12,8 +12,8 @@ div.jumbotron.carousel-hero {
 {
     header.masthead .intro-text .intro-lead-in
   {
-      margin-right: 200px !important;
-      margin-left: 200px !important;
+      margin-right: 20%!important;
+      margin-left: 20% !important;
   }
 }@media (max-width: 991px)
 {
@@ -45,13 +45,14 @@ div.jumbotron.carousel-hero {
 
 .nav-item:hover .nav-link
 {
-    border-bottom: 4px solid #e1b218;
+    border-bottom: 1px solid #e1b218;
     color: #e1b218 !important;
+
 }
 .nav-item .nav-link.active
 {
 
-    border-bottom: 4px solid #e1b218;
+    border-bottom: 1px solid #e1b218;
     color: #e1b218 !important;
 }
 
@@ -707,4 +708,7 @@ div#ws_fullscreen:-webkit-full-screen {
 div#ws_fullscreen:fullscreen {
     background-color: #000;
     height: 100%
+}
+.inactivo {
+   background-color: #0f6674; !important;
 }

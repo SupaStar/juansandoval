@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-    $("#collapseHipotecario").collapse('show')
+
     $('#collapseHipotecario').on('shown.bs.collapse', function (e) {
         $('#colHipotecario').css('border-bottom','')
     })
@@ -41,6 +41,7 @@ $(document).ready(function()
         $("html, body").animate({ scrollTop: 0 }, "slow");
         return false;
     });
+
 })
 $(window).scroll(function() {
     var height = $(window).scrollTop();
@@ -50,3 +51,13 @@ $(window).scroll(function() {
         $('#back2Top').fadeOut();
     }
 });
+
+$(".lista").click(function (){
+    $(".lista").each(function(index) {
+        $(this).removeClass("active");
+    });
+    $(this).addClass("active");
+});
+
+
+
