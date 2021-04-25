@@ -49,13 +49,13 @@
                  style="font-size: 20px;margin-top: 5px;padding-top: 0px; float: left">
 
                 <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase" >
-                    <li class="nav-item" ><a class="nav-link text-capitalize js-scroll-trigger" href="index.php #quienes"
+                    <li class="nav-item" ><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
                                              style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);">¿quiénes
                             somos?</a></li>
-                    <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php #valores"
+                    <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
                                             style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Nuestros
                             valores</a></li>
-                    <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php #servicios"
+                    <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
                                             style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Nuestros
                             servicios</a></li>
                     <li class="nav-item"><a  class="nav-link  js-scroll-trigger" href="temas2.php"
