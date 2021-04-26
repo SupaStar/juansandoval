@@ -80,7 +80,7 @@
 <section data-aos="fade-down" id="quienes" class="about-us" style="padding-top: 30px;padding-bottom: 50px;">
 <div class="container">
         <div class="row">
-            <div class="col" style="border-bottom: 1px solid rgb(0,56,105);padding-bottom: 15px;"><img src="assets/img/bullet.svg" style="width: 16px;transform: rotate(180deg);"><a href="index.php #temas-interes" style="font-family: Thasadith, sans-serif;font-weight: 700;color: rgb(0,56,105);">&nbsp;Regresar a Home</a></div>
+            <div class="col" style="border-bottom: 1px solid rgb(0,56,105);padding-bottom: 15px;"><img src="assets/img/bullet.svg" style="width: 16px;transform: rotate(180deg);"><a href="index.php#temas-interes" style="font-family: Thasadith, sans-serif;font-weight: 700;color: rgb(0,56,105);">&nbsp;Regresar a Home</a></div>
         </div>
         <div class="row" style="padding-top: 50px;border-bottom: 1px solid rgb(0,56,105) ;" >
             <div class="col-xl-4" >
