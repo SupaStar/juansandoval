@@ -377,6 +377,7 @@
 <script src="assets/js/script.min.js"></script>
 <script src="assets/js/temas.js"></script>
 <script src="assets/js/collapseds.js"></script>
+<script async data-id="77747" src="https://cdn.widgetwhats.com/script.min.js"></script>
 </body>
 
 </html>
