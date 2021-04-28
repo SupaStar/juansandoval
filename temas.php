@@ -44,16 +44,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#quienes"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;">¿quiénes
                         somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#valores"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#servicios"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#temas"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#temas-interes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;">temas de
                         interés</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
