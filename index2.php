@@ -51,7 +51,7 @@
                 <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#servicios"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Nuestros
                     servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="temas2.php"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="temas.php"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);">temas de
                     interés</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
@@ -548,7 +548,7 @@
                                     ella, así como de los impuestos y gravámenes que debe hacer frente por cada una de
                                     estas operaciones. También abarca los aspectos referentes a la gestión de estos
                                     inmuebles, es decir, licencias urbanas, de obras o las normas que regulan las
-                                    comunidades de vecinos.<br></h2><a href="temas2.php#collapseHipotecario"
+                                    comunidades de vecinos.<br></h2><a href="temas.php#collapseHipotecario"
                                                                        style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Conoce
                                 más&nbsp;<img src="assets/img/go-icon.svg" style="width: 13px;"></a>
                             </div>
@@ -595,7 +595,7 @@
                                     de Derecho Civil, según sea el caso concreto, se encuentran las autoridades
                                     judiciales, las autoridades del Registro Civil, notarios públicos, corredores
                                     públicos, actuarios o el Registro Público de la Propiedad.<br></h2><a
-                                    href="temas2.php#collapseCivil"
+                                    href="temas.php#collapseCivil"
                                     style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Conoce
                                 más&nbsp;<img src="assets/img/go-icon.svg" style="width: 13px;"></a>
                             </div>
@@ -634,7 +634,7 @@
                                     aplicables en materia de derecho mercantil, quiénes son considerados como
                                     comerciantes para efectos del derecho mercantil y qué son los actos de comercio,
                                     entre otros temas comprendidos por esta rama del derecho.<br></h2><a
-                                    href="temas2.php#collapseMercantil"
+                                    href="temas.php#collapseMercantil"
                                     style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Conoce
                                 más&nbsp;<img src="assets/img/go-icon.svg" style="width: 13px;"></a>
                             </div>
@@ -688,7 +688,7 @@
                                     ella, así como de los impuestos y gravámenes que debe hacer frente por cada una de
                                     estas operaciones. También abarca los aspectos referentes a la gestión de estos
                                     inmuebles, es decir, licencias urbanas, de obras o las normas que regulan las
-                                    comunidades de vecinos.<br></h2><a href="temas2.php#collapseFamiliar"
+                                    comunidades de vecinos.<br></h2><a href="temas.php#collapseFamiliar"
                                                                        style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Conoce
                                 más&nbsp;<img src="assets/img/go-icon.svg" style="width: 13px;"></a>
                             </div>

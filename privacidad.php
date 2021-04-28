@@ -58,7 +58,7 @@
                     <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
                                             style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;">Nuestros
                             servicios</a></li>
-                    <li class="nav-item"><a  class="nav-link  js-scroll-trigger" href="temas2.php"
+                    <li class="nav-item"><a  class="nav-link  js-scroll-trigger" href="temas.php"
                                              style="font-family: Thasadith, sans-serif;color: rgb(0,56,105); text-transform: none">Temas de
                             Interés</a></li>
                     <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
