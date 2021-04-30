@@ -1,6 +1,5 @@
 $(document).ready(function()
 {
-
     $('#collapseHipotecario').on('shown.bs.collapse', function (e) {
         $('#colHipotecario').css('border-bottom','')
     })

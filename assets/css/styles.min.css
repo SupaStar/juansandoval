@@ -12,8 +12,15 @@ div.jumbotron.carousel-hero {
 {
     header.masthead .intro-text .intro-lead-in
   {
-      margin-right: 20%!important;
-      margin-left: 20% !important;
+      margin-right: 5%!important;
+      margin-left: 5% !important;
+  }
+}@media (max-width: 990px)
+{
+    header.masthead .intro-text .intro-lead-in
+  {
+      margin-right: 5%!important;
+      margin-left: 5% !important;
   }
 }@media (max-width: 991px)
 {
@@ -22,16 +29,15 @@ div.jumbotron.carousel-hero {
     }
 }
 #back2Top {
-    width: 40px;
+    width: 30px;
     line-height: 40px;
     overflow: hidden;
     z-index: 999;
     display: none;
     cursor: pointer;
-
     position: fixed;
-    bottom: 50px;
-    right: 0;
+    bottom: 70px;
+    left: 10px;
     color: #555;
     text-align: center;
     font-size: 30px;
@@ -41,16 +47,11 @@ div.jumbotron.carousel-hero {
     background-color: #DDF;
     color: #000;
 }
-
-.nav-item:hover .nav-link
-{
-    border-bottom: 1px solid #e1b218;
-    color: #e1b218 !important;
-
+.card{
+    border-radius: 0 !important;
 }
 .nav-item .nav-link.active
 {
-
     border-bottom: 1px solid #e1b218;
     color: #e1b218 !important;
 }
@@ -107,6 +108,16 @@ p.hero-subtitle {
     width: 100%;
     transition: .5s;
     opacity: 0
+}
+#overlay p,#overlay2 p,  #overlay3 p, #overlay4 p, #overlay5 p {
+     line-height: 1.4 !important;
+    font-size: 18px !important;
+    text-align: left !important;
+}#overlay-1 p,#overlay-2 p,  #overlay-3 p, #overlay-4 p, #overlay-5 p, #overlay-6 p, #overlay-7 p, #overlay-8 p, #overlay-9 p, #overlay-10 p, #overlay-11 p, #overlay-12 p {
+     line-height: 1.4 !important;
+    font-size: 18px !important;
+    text-align: left !important;
+    padding-top: 20px !important;
 }
 #overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9 {
     background: #e1b218;
