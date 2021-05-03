@@ -113,26 +113,30 @@ p.hero-subtitle {
      line-height: 1.4 !important;
     font-size: 18px !important;
     text-align: left !important;
-}#overlay-1 p,#overlay-2 p,  #overlay-3 p, #overlay-4 p, #overlay-5 p, #overlay-6 p, #overlay-7 p, #overlay-8 p, #overlay-9 p, #overlay-10 p, #overlay-11 p, #overlay-12 p {
+}#overlay-1 p,#overlay-2 p,  #overlay-3 p, #overlay-4 p, #overlay-5 p, #overlay-6 p,  #overlay-8 p, #overlay-9 p, #overlay-10 p, #overlay-11 p {
      line-height: 1.4 !important;
-    font-size: 18px !important;
+    font-size: 16px !important;
     text-align: left !important;
-    padding-top: 20px !important;
+    padding-top: 60px !important;
+}
+#overlay-7 p, #overlay-12 p {
+     line-height: 1.4 !important;
+    font-size: 16px !important;
+    text-align: left !important;
+    padding-top: 10px !important;
 }
 #overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9 {
     background: #e1b218;
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 6px;
+    left: 5px;
     right: 15px;
-    height: 94%;
-    width: 95.5%;
+    height: 96%;
+    width: 96%;
     transition: .5s;
     opacity: 0;
 }
-
-
 .btn.float-right {
     background: url(../../assets/img/abrir.svg) 0 0/contain no-repeat;
     width: 30px;
