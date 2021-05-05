@@ -1,67 +1,61 @@
-$(document).ready(function() {
-   /* $('a.nav-link[data-toggle=collapse]').on('click',function(e)
-    {
-
+$(document).ready(function () {
+    $('a.nav-link[data-toggle=collapse]').on('click', function (e) {
         $('.collapse').collapse('hide');
-    })*/
-    $('#navHipotecario').on('click',function (e)
-    {
-        e.preventDefault()
+    })
+    $('#navHipotecario').on('click', function (e) {
         $('.collapse').collapse('hide');
-        setTimeout(openHipotecario,500);
+        setTimeout(openHipotecario, 200);
     })
 
-    function openHipotecario()
-    {
+    function openHipotecario() {
 
         $('#collapseHipotecario').collapse('show')
-    }$('#navCivil').on('click',function (e)
-    {
+    }
+
+    $('#navCivil').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openCivil,500);
+        setTimeout(openCivil, 200);
     })
 
-    function openCivil()
-    {
+    function openCivil() {
 
         $('#collapseCivil').collapse('show')
-    }$('#navMercantil').on('click',function (e)
-    {
+    }
+
+    $('#navMercantil').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openMercantil,500);
+        setTimeout(openMercantil, 200);
     })
 
-    function openMercantil()
-    {
+    function openMercantil() {
 
         $('#collapseMercantil').collapse('show')
     }
-    $('#navFamiliar').on('click',function (e)
-    {
+
+    $('#navFamiliar').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openFamiliar,500);
+        setTimeout(openFamiliar, 200);
     })
 
-    function openFamiliar()
-    {
+    function openFamiliar() {
 
         $('#collapseFamiliar').collapse('show')
     }
-    $('#navPenal').on('click',function (e)
-    {
+
+    $('#navPenal').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openPenal,500);
+        setTimeout(openPenal, 200);
     })
 
-    function openPenal()
-    {
+    function openPenal() {
 
         $('#collapsePenal').collapse('show')
     }
+
     $(window.location.hash).collapse('show');
 });
 
