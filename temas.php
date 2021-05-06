@@ -39,25 +39,25 @@
 </nav>
 <nav class="navbar navbar-light navbar-expand-sm sticky-top bg-light d-flex justify-content-center" id="mainNav"
      style="border-bottom: 4px solid #e1b218;padding-top: 0px;padding-bottom: 10px;min-height:90px">
-    <div class="container-fluid"><a class="navbar-brand"
-                                    style="margin-left: 0px;padding-left: 0px;padding-right: 0px;margin-right: 0px;"
-                                    href="index.php"><img src="assets/img/logo%20header.svg" style="width: 150px;"></a>
+    <div class="container-fluid">
         <button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right"
                 type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i
                     class="fa fa-bars"></i></button>
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#"
+                                        style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 65px;"><img src="assets/img/logo%20header.svg" style="width: 140px;"></a></li>
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#quienes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;">¿quiénes
                         somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#valores"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#servicios"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#temas-interes"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#temas-interes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;">temas de
                         interés</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
