@@ -49,16 +49,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 65px;"><img
                                 src="assets/img/logo%20header.svg" style="width: 140px;"></a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#quienes"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;">¿quiénes
                         somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#valores"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#servicios"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
                                         style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         servicios</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="#temas-interes"
@@ -82,7 +82,7 @@
         </div>
     </div>
 </header>
-<section data-aos="fade-down" id="quienes" class="about-us" style="padding-top: 30px;padding-bottom: 50px;">
+<section data-aos="fade-down" id="temas-interes" class="about-us" style="padding-top: 30px;padding-bottom: 50px;">
     <div class="container">
         <div class="row">
             <div class="col" style="border-bottom: 1px solid rgb(0,56,105);padding-bottom: 15px;"><img
