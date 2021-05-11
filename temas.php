@@ -909,20 +909,17 @@
                                     <div class="form-group" style="padding-top: 15px">
                                         <label
                                                 style="height:20px;color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Consulta
-                                            nuestros&nbsp;<a href="#" style="color: rgb(0,56,105);">Términos y
-                                                Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a
-                                                    href="aviso-terminos.php#collapseCivil"
-                                                    style="color: rgb(0,56,105);">Aviso
+                                            nuestros&nbsp;<a href="aviso-terminos.php#collapseTerminos" style="color: rgb(0,56,105);">Términos y
+                                                Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="aviso-terminos.php#collapseAviso"
+                                                                                        style="color: rgb(0,56,105);">Aviso
                                                 de Privacidad.</a></label>
                                         <label
-                                                style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Todos
-                                            los derechos reservados 2021</label>
+                                                style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Todos los derechos reservados 2021</label>
 
                                         <div class="input-group">
                                             <div class="input-group-prepend"></div>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                         </form>
