@@ -49,7 +49,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 65px;"><img
                                 src="assets/img/logo%20header.svg" style="width: 140px;"></a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
