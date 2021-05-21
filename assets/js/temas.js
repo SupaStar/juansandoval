@@ -4,7 +4,7 @@ $(document).ready(function () {
     })
     $('#navHipotecario').on('click', function (e) {
         $('.collapse').collapse('hide');
-        setTimeout(openHipotecario, 200);
+        setTimeout(openHipotecario, 1000);
     })
 
     function openHipotecario() {
@@ -15,7 +15,7 @@ $(document).ready(function () {
     $('#navCivil').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openCivil, 200);
+        setTimeout(openCivil, 1000);
     })
 
     function openCivil() {
@@ -26,7 +26,7 @@ $(document).ready(function () {
     $('#navMercantil').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openMercantil, 200);
+        setTimeout(openMercantil, 1000);
     })
 
     function openMercantil() {
@@ -37,7 +37,7 @@ $(document).ready(function () {
     $('#navFamiliar').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openFamiliar, 200);
+        setTimeout(openFamiliar, 1000);
     })
 
     function openFamiliar() {
@@ -48,7 +48,7 @@ $(document).ready(function () {
     $('#navPenal').on('click', function (e) {
         e.preventDefault()
         $('.collapse').collapse('hide');
-        setTimeout(openPenal, 200);
+        setTimeout(openPenal, 1000);
     })
 
     function openPenal() {

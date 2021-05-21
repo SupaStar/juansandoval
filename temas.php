@@ -282,7 +282,6 @@
             <h1 style=" color: rgb(225,178,24);font-family: Thasadith, sans-serif;
         "></h1>
         <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;">Derecho Mercantil</h1>
-        <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;">Derecho Mercantil</h1>
         <h2 style="    text-indent: 10px;color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">En
             México, el Derecho Mercantil al igual que el Derecho Civil pertenece al Derecho Privado. Existen uno al lado
             del otro, de forma separada ya que el Derecho Civil regula las relaciones jurídicas privadas en general y el
