@@ -67,22 +67,8 @@
                         interés</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
                                         style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Contactanos</a>
-                </li><li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
-                                        style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">¿Quiénes
-                        somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
-                                        style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;text-transform: none !important;">Nuestros
-                        valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
-                                        style="text-align: center;text-transform: none !important;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
-                        servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#temas-interes"
-                                        style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">Temas
-                        de
-                        interés</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
-                                        style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Contactanos</a>
                 </li>
+
             </ul>
         </div>
     </div>
