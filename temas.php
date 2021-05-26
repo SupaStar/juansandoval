@@ -67,6 +67,21 @@
                         interés</a></li>
                 <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
                                         style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Contactanos</a>
+                </li><li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
+                                        style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">¿Quiénes
+                        somos?</a></li>
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
+                                        style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;text-transform: none !important;">Nuestros
+                        valores</a></li>
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
+                                        style="text-align: center;text-transform: none !important;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
+                        servicios</a></li>
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#temas-interes"
+                                        style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">Temas
+                        de
+                        interés</a></li>
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="#contacto"
+                                        style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Contactanos</a>
                 </li>
             </ul>
         </div>
@@ -163,20 +178,20 @@
                     El ámbito de aplicación del Derecho inmobiliario, por tanto, será la regulación de todos aquellos
                     actos y contratos que afecten a un bien inmueble. Así, en general, el Derecho inmobiliario
                     aborda:<br></h2>
-                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                     <label style="    text-indent: 10px;color: rgb(225,178,24);height: 13px;">La regulación de los derechos reales sobre un
                         bien inmueble&nbsp;<br></label>Se dividen básicamente en derecho de propiedad y derechos
                     limitativos del dominio. El Derecho inmobiliario regula qué es la propiedad y los derechos que
                     otorga, cómo se adquiere, se comparte o se transmite. En cuanto a los derechos limitativos, regula
                     situaciones como el usufructo,&nbsp;la habitación o la servidumbre de un bien.<br></h2>
-                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                     <label style="color: rgb(225,178,24);height: 12px;"><strong>La compraventa de inmuebles&nbsp;u
                             operaciones inmobiliarias.&nbsp;</strong><br></label>Este proceso requiere cumplir trámites
                     previos para garantizar la validez de la operación: será necesario comprobar la situación
                     urbanística, registral y administrativa de una finca antes de su&nbsp;compraventa, preparar
                     contratos previos -como el de arras o el de opción de compra-, o liquidar los impuestos que
                     devenguen antes y después de la compraventa.<br></h2>
-                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                     <label style="color: rgb(225,178,24);height: 12px;">La compraventa de inmuebles u operaciones
                         inmobiliarias.&nbsp;<br></label>&nbsp;En el caso de un edificio en el que la propiedad de los
                     pisos y locales corresponde a distintas personas, será necesario constituir una comunidad para tomar
@@ -205,7 +220,7 @@
                 intervenir en alguno de estos temas de Derecho Civil, según sea el caso concreto, se encuentran las
                 autoridades judiciales, las autoridades del Registro Civil, notarios públicos, corredores públicos,
                     actuarios o el Registro Público de la Propiedad.</label><br></h2>
-            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="color: rgb(225,178,24);height: 13px;">Las personas.&nbsp;<br></label>&nbsp;Los códigos
                 civiles disponen que las personas físicas adquieren su capacidad jurídica con el nacimiento y la pierden
                 con su muerte, la ley dispone además que desde el momento en que un individuo es concebido, entra bajo
@@ -220,20 +235,20 @@
                 dan tratamiento legal a las personas jurídicas conocidas en esta materia como asociaciones y sociedades
                 civiles. Conviene mencionar que no se debe confundir a estas personas jurídicas del derecho civil con
                 las sociedades mercantiles las cuales están reguladas por el derecho mercantil.<br></h2>
-            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="color: rgb(225,178,24);height: 12px;"><strong>Los Bienes.&nbsp;</strong><br></label>&nbsp;El
                 Derecho Civil se ocupa de la protección y respeto de los bienes muebles y de los bienes inmuebles. La
                 ley regula la forma cómo estos bienes se adquieren, su uso, goce, disfrute, la forma de transmitirlos y
                 los conflictos derivados de ellos. En relación con los bienes están los derechos y obligaciones
                 relativos a la propiedad y a la posesión.<br></h2>
-            <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">La Propiedad.&nbsp;<br></label>&nbsp;En virtud de la
                 propiedad, una persona tiene derecho a usar y disponer de sus bienes de acuerdo con la ley. El Estado,
                 en caso de interés público y otorgando una indemnización al individuo podrá usar, disfrutar o disponer
                 de la propiedad de una persona, como es el caso de la expropiación por causa de utilidad pública. La ley
                 establece como formas de adquirir la propiedad: los contratos, la sucesión, la usucapión, la apropiación
                 y la accesión.<br></h2>
-            <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">La Posesión.&nbsp;<br></label>&nbsp;La posesión no
                 es lo mismo que la propiedad, la ley distingue un término del otro. La posesión es el hecho mediante el
                 cual una persona tiene el poder de un bien o derecho sobre el cual realiza actos de uso, goce y
@@ -243,7 +258,7 @@
                 conservará la propiedad. La posesión de una cosa o derecho puede adquirirse de buena fe, como en virtud
                 de un contrato de arrendamiento; o bien la posesión<br>puede adquirirse de mala fe, como por ejemplo
                 cuando no se posee título alguno.<br></h2>
-            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="color: rgb(225,178,24);height: 12px;">Las Obligaciones.&nbsp;<br></label>&nbsp;El Derecho
                 Civil regula también las obligaciones y establece los efectos jurídicos que producen. La obligación es
                 el vínculo jurídico entre dos personas, una llamada acreedor y la otra llamada deudor. Por virtud de las
@@ -255,7 +270,7 @@
                 obligaciones pueden ser de dar, hacer o no hacer. Nuestro derecho establece como formas de transmisión
                 de las obligaciones: la cesión de derechos, la cesión de deudas y la subrogación. puede adquirirse de
                 mala fe, como por ejemplo cuando no se posee título alguno.<br></h2>
-            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+            <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
                 <label style="color: rgb(225,178,24);height: 12px;">Los Contratos.&nbsp;<br></label>&nbsp;Los códigos
                 civiles se refieren a los contratos como los convenios que producen o transfieren las obligaciones y
                 derechos. Y los convenios son los acuerdos de dos o más personas para crear, transferir, modificar o
@@ -293,14 +308,14 @@
             sentido, es importante definir cuáles son las disposiciones aplicables en materia de derecho mercantil,
             quiénes son considerados como comerciantes para efectos del derecho mercantil y qué son los actos de
             comercio, entre otros temas comprendidos por esta rama del derecho.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 13px;">Disposiciones Aplicables.&nbsp;<br></label>&nbsp;En
             México, los actos de comercio, son regulados por el Código de Comercio y demás leyes mercantiles y a falta
             de disposiciones en estas leyes, serán aplicables las disposiciones contenidas en el Código Civil Federal.
             Algunas de estas leyes mercantiles son: Ley de Comercio Exterior; Ley de Concursos Mercantiles; Ley de
             Instituciones de Crédito; Ley General de Sociedades Mercantiles; Ley General de Títulos y Operaciones de
             Crédito; Ley<br>Sobre el Contrato de Seguro, entre otras.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Comerciantes.&nbsp;</strong><br></label>&nbsp;De
             acuerdo con el Código de Comercio se consideran comerciantes tanto las personas físicas y morales con las
             siguientes consideraciones:<br></h2>
@@ -312,7 +327,7 @@
             2.Las sociedades constituidas conforme a las leyes mercantiles. </h2>
         <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">
             3.Las sociedades extranjeras, sus agencias y sucursales, que ejerzan actos de comercio en México.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             Esto es, los comerciantes son aquellas personas físicas o morales que hacen del comercio su profesión
             habitual. No obstante ello, se puede dar el supuesto de que cualquier persona física o moral con o sin
             establecimiento físico, eventual o accidentalmente, realice alguna operación de comercio y aunque no sea
@@ -320,7 +335,7 @@
             a las leyes mercantiles. Los comerciantes tienen como obligaciones legales: inscribir en el Registro Público
             de Comercio los documentos cuya autenticidad deba hacerse notoria; mantener un sistema de contabilidad; y
             conservar la correspondencia relacionada<br>con el giro de comerciante.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Actos de Comercio</strong><br></label>. Los
             actos de comercio son aquellos actos jurídicos celebrados por personas físicas o morales, comerciantes o no,
             que produzcan efectos jurídicos regulados por el derecho mercantil. El Código de Comercio enuncia cuáles son
@@ -388,18 +403,18 @@
         </h2>
         <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">
             25.&nbsp; Cualesquiera otros actos de naturaleza análoga a los expresados.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <strong>En caso de duda si un acto es de comercio o no, un árbitro judicial será quien lo determine. Por
                 otro lado, no se consideran actos de comercio la compra de artículos para uso o consumo del comerciante
                 o de su familia.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Registro Público de
                     Comercio</strong><br></label><strong>El Registro Público de Comercio es una institución de la cual
                 no se puede prescindir en el Derecho Mercantil, toda vez que los comerciantes están obligados a
                 inscribir los documentos que deben hacerse notorios, como por ejemplo la escritura constitutiva
                 tratándose de sociedades mercantiles, algunas clases de contratos y demás actos mercantiles en los casos
                 que así lo establezca la ley.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Contratos
                     Mercantiles.&nbsp;</strong><br></label><strong>Los contratos mercantiles son los convenios que
                 producen o transfieren obligaciones y derechos de naturaleza mercantil. Entre los contratos mercantiles
@@ -407,7 +422,7 @@
                 comerciales, comisión mercantil, concesión mercantil, consignación mercantil, compraventa mercantil,
                 permuta mercantil, diversos contratos de seguro, diversos contratos de transporte, depósito mercantil,
                 fianza, fideicomiso, garantía, suministro, tiempo compartido y otros.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Comercio Electrónico.&nbsp;</strong><br></label><strong>En
                 los actos de comercio y en la formación de los mismos puedan emplearse medios electrónicos, ópticos o de
                 cualquier otra tecnología. En los actos de comercio electrónico se aplicarán las disposiciones del
@@ -416,7 +431,7 @@
                 interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad,
                 compatibilidad internacional y equivalencia funcional del mensaje de datos con documentos no
                 electrónicos y de la firma electrónica en relación con la firma autógrafa.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Sociedades
                     Mercantiles.&nbsp;</strong><br></label><strong>Las Sociedades Mercantiles son reconocidas como
                 personas morales, sujetos de derecho con capacidad jurídica, patrimonio, nombre, domicilio y
@@ -434,7 +449,7 @@
                 escritura constitutiva, la razón o denominación social, el domicilio, el objeto social, la forma de
                 administrar la sociedad, la representación de la sociedad, entre otros, pero también dispone de
                 apartados aplicables específicamente a cada uno de los tipos de sociedades.&nbsp;</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Sociedades
                     Irregulares</strong><br></label><strong>Las sociedades irregulares son aquellas que no cumplen los
                 requisitos exigidos por la ley en cuanto a su constitución y funcionamiento. Por ejemplo, aquellas que
@@ -447,7 +462,7 @@
                 tiene tal carácter, podrán exigirle el cumplimiento de las obligaciones a los representantes de esa
                 sociedad, además de la responsabilidad penal en que pudieran haber incurrido dichos representantes
                 cuando los terceros resulten perjudicados.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Titulos y Operaciones de Crédito.&nbsp;</strong><br></label><strong>Los
                 títulos de crédito reconocidos por la ley son: el pagaré, la letra de cambio, el cheque, el certificado
                 de depósito y bono de prenda. Los títulos de crédito son actos de comercio, cosas mercantiles y son los
@@ -465,7 +480,7 @@
                 caso de incumplimiento. Los títulos y operaciones de crédito, se rigen por lo dispuesto en la Ley de
                 Títulos y Operaciones de Crédito, por la legislación mercantil general, por los usos bancarios y
                 mercantiles; y por Código Civil del Distrito Federal.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Concurso
                     Mercantil.&nbsp;</strong><br></label><strong>Mediante el procedimiento de concurso mercantil, se
                 declara en concurso al comerciante que ha incumplido con sus obligaciones de pago a dos o más acreedores
@@ -510,19 +525,19 @@
         urbanas, de obras o las normas que regulan las comunidades de vecinos.
         <br></h2>
 
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 13px;">Matrimonio.<br></label><strong>Una de las instituciones
             fundamentales en el derecho de familia es el matrimonio, el cual es la unión legal de dos personas que
             reciben el nombre de cónyuges, quienes consienten en realizar una comunidad de vida, de ayuda mutua y toman
             de manera libre, responsable, voluntaria e informada las decisiones reproductivas que se ajustan a su
             proyecto de vida, incluyéndose la posibilidad de procrear o adoptar.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Divorcio.</strong><br></label><strong>Cuando
             cualquiera de los cónyuges o ambos no desean continuar en matrimonio, pueden de forma individual o de común
             acuerdo, solicitar o promover por la vía administrativa o judicial según resulte procedente, la disolución
             del matrimonio. La forma de disolver el vínculo matrimonial es el divorcio y deja a los cónyuges en aptitud
             de contraer otro matrimonio.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Concubinato</strong><br></label><strong>Resulta
             conveniente mencionar que una figura que ha cobrado importancia en cuanto a su reconocimiento en el derecho
             de familia y a los derechos y obligaciones que derivan de esta, es la figura del concubinato consistente en
@@ -530,13 +545,13 @@
             contraerlo, hacen vida en común de manera constante y permanente por un periodo de tiempo. Sin embargo, no
             será necesario el transcurso del periodo de tiempo si reunidos los demás requisitos los concubinos tienen un
             hijo en común.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Filiación:&nbsp;</strong><br></label><strong>Nuestro
             Derecho Mexicano destaca una figura importante: la filiación, siendo esta el vínculo jurídico que existe
             entre dos personas en la que una desciende de la otra por hechos biológicos y/o actos jurídicos. La
             filiación proporciona identidad al menor e implica las responsabilidades de guarda, custodia y
             educación.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Paternidad y
                 Maternidad.&nbsp;</strong><br></label><strong>Como consecuencia de la filiación, la ley hace referencia
             a la paternidad y a la maternidad que es la relación jurídica que se da entre padres e hijos; la primera es
@@ -552,7 +567,7 @@
             vez que se da el reconocimiento de la paternidad o maternidad, la condición de hijo no se pierde sino por
             sentencia judicial que así lo determine, como resultado de la impugnación de la paternidad.</strong><br>
     </h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Adopción</strong><br></label><strong>&nbsp;La
             adopción, es otra forma de la cual puede resultar la filiación. La adopción sustituye a la filiación de
             origen, el adoptado deja de pertenecer a su familia natural y por tanto se extingue el parentesco con los
@@ -560,7 +575,7 @@
             derechos y obligaciones de un hijo y los impedimentos matrimoniales se extienden a la familia del adoptante.
             La ley establece los requisitos legales para la adopción, velando para que sea benéfica para los adoptados,
             previa valoración psicológica y socioeconómica de los adoptantes.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Patria Potestad.&nbsp;</strong><br></label><strong>En
             el derecho de familia también tenemos a la institución jurídica de la patria potestad que es de interés
             público y vela por el interés superior y la protección del menor. La patria potestad busca garantizar y
@@ -571,7 +586,7 @@
             de derechos y deberes que corresponde a los padres y en su defecto a los abuelos sobre los menores no
             emancipados. La patria potestad es irrenunciable, sin embargo, ésta puede acabarse, perderse o suspenderse
             en los supuestos que señala la ley.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Guardia y Custodia.</strong><br></label><strong>Cuando
             se da el caso de separación o divorcio de los padres de los menores, ambos progenitores conservarán la
             patria potestad y deberán de cumplir con sus obligaciones parentales, sin embargo, los padres deben llegar a
@@ -582,7 +597,7 @@
             sentido de una guarda y custodia compartida en cuyo caso ambos padres compartirán los derechos y
             responsabilidades en la educación, formación, manutención y representación de los menores en igualdad de
             condiciones o de manera proporcional según se haya establecido judicialmente.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Tutela</strong><br></label><strong>El legislador en
             las disposiciones relativas al derecho de familia incluye la figura jurídica de la tutela que tiene por
             objeto la guarda y protección de la persona y bienes de los que no estando sujetos a patria potestad tienen
@@ -590,7 +605,7 @@
             obligarse por sí mismos. La tutela es un cargo de interés público. El tutor puede ser inhabilitado o
             separado de su cargo, o bien la tutela puede extinguirse cuando se dan los supuestos que señala la
             ley.</strong><br></h2>
-    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
         <label style="color: rgb(225,178,24);height: 12px;"><strong>Alimentos.&nbsp;</strong><br></label><strong>Aunado
             a las instituciones jurídicas a las que hemos hecho referencia en los párrafos anteriores, el derecho de
             familia se refiere a la obligación de dar alimentos y el derecho a pedirlos. Los alimentos comprenden la
@@ -618,7 +633,7 @@
             que constituyen delitos, así como las penas y/o medidas de seguridad para sancionar a quienes incurren en la
             comisión de esos delitos. Trataremos de forma general al Derecho Penal Sustantivo que es el conjunto de
             normas que definen los delitos, las penas y su aplicación.<br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 13px;">Derecho Penal<br></label>.&nbsp;<strong>El Derecho Penal
                 se ubica dentro del Derecho Público toda vez que el Estado interviene activamente en la solución de
                 conflictos buscando preservar el orden y la paz públicos. El Derecho Penal es el conjunto de normas
@@ -626,7 +641,7 @@
                 así como las penas y/o medidas de seguridad para sancionar a quienes incurren en la comisión de esos
                 delitos. Trataremos de forma general al Derecho Penal Sustantivo que es el conjunto de normas que
                 definen los delitos, las penas y su aplicación.</strong></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Legislación Aplicable en el Derecho Penal
                     Sustantivo.</strong><br></label>&nbsp;<strong>En México se aplican el Código Penal Federal, los
                 Códigos Penales Estatales, y otras legislaciones en la materia. El Código Penal Federal se aplica en
@@ -644,7 +659,7 @@
                 constituyen delitos; las penas o medidas de seguridad para sancionar a quienes incurren en la comisión
                 de esos delitos; los sujetos que intervienen en la comisión del delito; la responsabilidad penal; causas
                 de exclusión de delito; tentativa, reincidencia; y otros.</label><br><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Delito.&nbsp;</strong><br></label><strong>El
                 delito es definido por el Código Penal Federal como el acto u omisión que sancionan las leyes penales.
                 Algunos códigos estatales definen el delito como la conducta típica, antijurídica y culpable a la que se
@@ -665,12 +680,12 @@
                 resultados, lo realiza. Por ejemplo: una persona conoce que comete homicidio al privar de la vida a otra
                 persona y sabiéndolo apunta con un arma de fuego a una persona, acciona el arma y le da muerte a esa
                 persona.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <strong>Y obra de forma culposa quien comete un delito que no previó o bien que siendo previsible o previó,
                 confió que no se produciría, porque no tuvo el cuidado que debía. Por ejemplo: una persona que comete
                 homicidio por tener en sus manos un arma de fuego, se la muestra a otra persona y de forma accidental
                 acciona el gatillo, dando muerte a esa persona.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Delitos
                     Federales.&nbsp;</strong><br></label><strong>De manera general hacemos mención de los delitos
                 federales contemplados por el Código Penal Federal, la descripción y sanción de los mismos las podemos
@@ -678,7 +693,7 @@
                 la salud, trata de personas, falsificación de moneda, falsificación de documentos, delitos contra el
                 medio ambiente, delitos contra la propiedad intelectual, robo de hidrocarburos, delitos relacionados con
                 las armas de fuego, daños al patrimonio cultural, entre otros.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Delitos del Fuero
                     Común.&nbsp;</strong><br></label><strong>Las entidades federativas a través de sus códigos penales,
                 en sus disposiciones describen las conductas y omisiones constitutivas de delitos, así como sus
@@ -688,7 +703,7 @@
                 feminicidio, aborto, abuso sexual, tráfico de menores, acoso sexual, violación, incesto, robo, fraude,
                 abuso de confianza, extorsión, violencia familiar, violencia de género, incumplimiento de obligaciones
                 de asistencia familiar, corrupción de menores, falsificación, entre otros.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Sujetos del Delito</strong><br></label><br></h2>
         <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">
             1. Sujeto Activo:&nbsp;<strong>Es la persona que realiza la conducta considerada como delito. Por ejemplo,
@@ -697,7 +712,7 @@
             2. Sujeto Pasivo:&nbsp;<strong>Es la persona titular del interés jurídico lesionado o puesto en peligro.
                 También se le conoce con el nombre de víctima u ofendido. Por ejemplo, a quien se priva de la libertad
                 en un secuestro.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Responsabilidad
                     Penal.</strong><br></label><strong>Es la consecuencia jurídica derivada de la comisión de un delito.
                 Quien comete un delito es responsable de cometerlo. Se consideran autores o partícipes del
@@ -720,22 +735,22 @@
         <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">
             8.&nbsp;<strong>Los que sin acuerdo previo intervengan en la comisión de un delito cuando no se pueda
                 precisar el resultado que cada uno produjo.</strong></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <strong>Los autores o partícipes de un delito son responsables en la medida de su propia
                 culpabilidad.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Imputabilidad.&nbsp;</strong><br></label><strong>La
                 doctrina y los códigos penales estatales señalan que es penalmente imputable quien, al momento de
                 realizar un delito, tiene capacidad de comprender que se trata de un delito y aun así decide
                 realizarlo.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Inimputabilidad</strong><br></label><strong>La
                 doctrina y algunos de los códigos penales de las entidades federativas disponen que estará excluido de
                 delito quien, al momento de realizar el delito, no tenga capacidad de comprender que se trata de un
                 delito, por padecer trastorno mental o bien desarrollo intelectual retardado. En estos casos el Juez a
                 través de pruebas y dictámenes periciales valorará el grado de inimputabilidad y en base a esto impondrá
                 las penas y medidas de seguridad que en su caso procedan.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Tentativa.&nbsp;</strong><br></label><strong>La
                 tentativa se refiere a que puede suceder que una persona exteriorice la intención de cometer un delito
                 realizando en parte o totalmente actos que deberían producir un determinado resultado o bien omitiendo
@@ -751,7 +766,7 @@
                 este caso el Juez no impondrá pena o medida de seguridad por lo que a esto se refiere, sin embargo,
                 podrá aplicar la pena o medida de seguridad que corresponda a actos ejecutados u omitidos que
                 constituyan por sí mismos delitos.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Excluyente de Delito.&nbsp;</strong><br></label><strong>La
                 exclusión de delito, es una figura que implica que no puede considerarse que existió un delito cuando se
                 realicen ciertas conductas con el objetivo de proteger determinados bienes jurídicos propios o ajenos, o
@@ -764,7 +779,7 @@
                 agresor, esto es, de cometer el delito de homicidio. Algunos códigos disponen expresamente que las
                 causas de exclusión del delito se pueden hacer valer de oficio en cualquier momento de la investigación
                 o del proceso.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Reincidencia.&nbsp;</strong><br></label><strong>En
                 términos generales podemos mencionar que el código penal se refiere a que existe reincidencia cuando un
                 condenado por sentencia ejecutoria por cualquier Tribunal de la República o del extranjero comete un
@@ -773,7 +788,7 @@
                 2017, existe un alto porcentaje de delincuentes que son reincidentes, en algunos Estados de la República
                 la reincidencia se da en un 44.9% de población que ha sido juzgada por la comisión de un delito antes de
                 su reclusión actual.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Penas y Medidas de Seguridad.&nbsp;</strong><br></label><strong>Las
                 penas y medidas de seguridad son las consecuencias jurídicas del delito. El objetivo de su existencia
                 son la readaptación, resocialización, rehabilitación, reinserción o regeneración del delincuente
@@ -784,7 +799,7 @@
                 determinado; sanciones pecuniarias (reparación del daño); decomiso de instrumentos, objetos y productos
                 del delito; amonestación; apercibimiento; colocación de dispositivos de localización y vigilancia, entre
                 otros.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Menores
                     Infractores.&nbsp;</strong><br></label><strong>En el ámbito del derecho penal la edad es un factor
                 de importancia, los menores de 18 años que realicen conductas tipificadas como delitos por los códigos
@@ -792,7 +807,7 @@
                 del Sistema Integral de Justicia Penal para Adolescentes que es de observancia en toda la República y se
                 aplica a aquellos menores (adolescentes) entre 12 y 18 años de edad a quienes se les atribuya la
                 comisión de una conducta tipificada como delito por las leyes penales.</strong><br></h2>
-        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: lefttext-align: left;padding-right: 15px;padding-left: 15px;">
+        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: lefttext-align: left;padding-right: 15px;">
             <label style="color: rgb(225,178,24);height: 12px;"><strong>Nuevo Sistema de Justicia
                     Penal.&nbsp;</strong><br></label><strong>Como parte del Derecho Penal tenemos al Derecho Penal
                 Procesal, que se refiere al conjunto de normas que regulan los procedimientos penales. Así tenemos el
