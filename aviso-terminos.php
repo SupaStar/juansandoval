@@ -115,8 +115,8 @@
             <div class="col">
                 <div class="collapse" id="collapseTerminos" style="margin-bottom: 20px;">
                     <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;">Términos y Condiciones</h1>
-                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">Obligatoriedad, Consentimiento y Aceptación:<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;"> Los presentes Términos y Condiciones establecen las disposiciones y normas a las que todo
+                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">Obligatoriedad, Consentimiento y Aceptación:<br></h2>
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;"> Los presentes Términos y Condiciones establecen las disposiciones y normas a las que todo
                         individuo que decida interactuar con el sitio web que se
                         identifica por medio del siguiente dominio de internet: www.juansandoval.com.mx (en lo sucesivo
                         el “sitio web”), deberá obligarse y no será eximido de
@@ -125,7 +125,7 @@
                         manera inequívoca e inmediata, el consentimiento tácito respecto al uso del sitio web bajo la
                         aplicación de los presentes Términos y Condiciones. Se le
                         ruega al usuario hacer lectura de estos últimos.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 13px;">Definiciones:&nbsp;<br></label>Para
                         facilidad del lector y para los efectos conducentes de los presentes Términos y Condiciones,
                         Juan Sandoval y Asociados en el presente apartado,
@@ -135,31 +135,31 @@
                         términos que en lo sucesivo se definen, serán descritos con
                         la primera letra en mayúscula y únicamente cuando se utilicen con dicho formato es cuando
                         deberán de interpretarse como tales.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;"><strong>Abogado.</strong><br></label>&nbsp;
                         Se refiere a todo profesional en el campo del Derecho que forma parte del despacho jurídico
                         denominado como Juan Sandoval y Asociados.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;">Carga (upload).&nbsp;<br></label>&nbsp;Se
                         refiere a toda operación voluntaria de índole informática que involucra la transferencia de
                         Información almacenada en un dispositivo
                         electrónico a una plataforma en línea.</label><br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Descarga. (download).<br></label>&nbsp;. Se
                         refiere a toda operación voluntaria de índole informática que involucra la transferencia de
                         Información en línea a un
                         dispositivo electrónico.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Contenido.<br></label>&nbsp;Se refiere a
                         todo componente multimedia y/o información consistente de manera enunciativa más no limitativa
                         en textos, gráficos,
                         fotografías, logotipos, audio, video, marcas, imágenes, bases de datos, así como el diseño
                         gráfico, código fuente y software, que sean propiedad de
                         Juan Sandoval y Asociados.<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;">Despacho.<br></label>&nbsp;Se refiere al
                         despacho jurídico denominado como Juan Sandoval y Asociados.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Elemento(s). <br></label>&nbsp;Se refiere a
                         todo componente multimedia y/o información consistente de manera enunciativa más no limitativa
                         en textos, gráficos,
@@ -167,25 +167,25 @@
                         gráfico, código fuente [incluyendo cualquier programa
                         conectado por hipertexto o ligas (links)] y software, que sean propiedad de terceros<br>
                     </h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Redes Sociales. <br></label>&nbsp;s. Se
                         refiere a todo aquel espacio en internet dedicado a la constante vinculación de individuos para
                         la constante manifestación e
                         intercambio de ideas, así como información diversa con finalidades de entretenimiento, ocio,
                         concientización social y formación de relaciones
                         interpersonales.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Sitio web. <br></label>&nbsp;Se refiere al
                         conjunto de archivos electrónicos y páginas web referentes a los servicios que presta Juan
                         Sandoval y Asociados.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         Juan Sandoval y Asociados mismo que se identifica por medio del siguiente dominio de internet: http://www.juansandoval.com.mx/<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;"><strong>Usuario. </strong><br></label>&nbsp;
                         Se refiere a todo aquel individuo que obtenga acceso e interactúe con o navegue en el sitio web.<br></h2>
-                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                         De la naturaleza del sitio web:<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         Todo contenido que haya sido empleado para el desarrollo del presente sitio web, única y exclusivamente ha sido cargado (uploaded) al mismo con
                         propósitos meramente informativos. En consecuencia, los autores de dicho contenido, y/o cualquier otra persona o institución que intervenga o haya
                         intervenido en su preparación, difusión y/o estén involucradas en cualquier otra forma con los autores, no se hacen responsables por la manera en la
@@ -198,9 +198,9 @@
                         circunstancia, con el carácter de opinión jurídica y no deberá ser empleada con tal carácter.<br>
                         Todo usuario que requiera asesoría legal o realizar una consulta, previamente deberá ponerse en contacto con el despacho, o el abogado que le
                         resultare de mayor conveniencia, por medio de los correos electrónicos proporcionados por conducto del sitio web<br></h2>
-                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                         De la relación abogado-cliente:<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         Derivado de la naturaleza del sitio web, la interacción del usuario con el mismo, así como realizar el envío de cualquier mensaje de datos a las
                         direcciones de correo electrónicas proporcionadas por conducto del sitio web, no constituirá, una relación de abogado-cliente; es decir, el usuario
                         acuerda que no podrá obtener la calidad de cliente del despacho por solamente haber interactuado o haber visitado el sitio web. Por lo anterior, se le
@@ -208,9 +208,9 @@
                         se haya establecido contacto con alguno de los abogados y se haya recibido una respuesta que consienta la recepción de tal información. Si se tuviera
                         algún interés, pregunta o duda por parte del usuario, respecto al tratamiento y protección de datos personales, se pone a su disposición el Aviso de
                         Privacidad respectivo por conducto de la siguiente liga: <a href="aviso-terminos.php">www.juansandoval.com.mx/aviso-terminos.php</a><br></h2>
-                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                         De los derechos de propiedad intelectual:<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         El contenido del sitio web es propiedad del despacho, o bien, conforme a las circunstancias pertinentes, se hace uso de sus componentes o diversos
                         elementos, por virtud de la previa obtención de las autorizaciones y/o licencias correspondientes por parte de los titulares de los derechos respectivos;
                         por lo tanto, dicho contenido y elementos se encuentran protegidos por las leyes mexicanas y toda disposición aplicable de carácter internacional. En
@@ -228,43 +228,43 @@
                         titularidad de derechos sobre cualquier contenido o elemento del sitio web.<br>
                         Por el acceso y uso del sitio web, en ningún momento ni bajo concepto alguno, el usuario gozará de cualquier derecho o licencia para el uso y/o
                         explotación de cualesquiera del contenido o de los elementos que conforman el sitio web</h2>
-                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                    <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                         De la responsabilidad de Juan Sandoval y Asociados:<br></h2>
-                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                    <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                         El despacho procura revisar y actualizar periódicamente contenido del sitio web; no obstante, Juan Sandoval y Asociados no asume responsabilidad
                         alguna en los siguientes supuestos<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;"><strong>-</strong><br></label>&nbsp;
                         Cualquier daño y/o perjuicio causado al usuario en razón de la interacción del sitio web con su equipo de cómputo y/o con los accesorios
                         periféricos o paralelos de dicho equipo y/o con las líneas de enlace entre su equipo y el sitio web.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;"><strong>-</strong><br></label>&nbsp;
                         Cualquier daño y/o perjuicio derivado de la falta de continuidad total o parcial respecto al sitio web y los archivos o páginas web que lo integran, así
                         como de la disponibilidad de conexión para obtener acceso o navegar por el mismo.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;"><strong>-</strong><br></label>&nbsp;
                         Cualquier daño y/o perjuicio derivado de presencia de virus, de elementos que puedan ofender o considerarse lesivos por el usuario, o por
                         cualquier otro elemento que pudiera ser introducido por cualquier tercero violando los controles de seguridad pertenecientes al sitio web.<br></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;"><strong>-</strong><br></label>&nbsp;
                         Así también como cualquier daño y/o perjuicio derivado de:<br></h2>
-                     <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">a)&nbsp;<strong>Uso inadecuado por parte de los usuarios del sitio web o su contenido y componentes;</strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">b)&nbsp;<strong>La violación o afectación de cualquier derecho de propiedad industrial o intelectual, secreto industrial, derechos de la personalidad, o
+                     <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">a)&nbsp;<strong>Uso inadecuado por parte de los usuarios del sitio web o su contenido y componentes;</strong></h2>
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">b)&nbsp;<strong>La violación o afectación de cualquier derecho de propiedad industrial o intelectual, secreto industrial, derechos de la personalidad, o
                             cualquier otro derecho de terceros, derivado de la difusión, explotación o almacenamiento de cualquier elemento del sitio web que se realice
                             por cualquier tercero, ya sea este, usuario, visitante o una persona que jamás hubiere obtenido acceso al sitio web; </strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">c)&nbsp;<strong>La comisión de actos de competencia o publicidad desleal por parte de cualquier tercero que hubiera obtenido elementos del sitio web;</strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">d)&nbsp;<strong>La falta de precisión, pertinencia o detalle del contenido del sitio web;</strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">e)&nbsp;<strong>Que el sitio web no satisfaga las expectativas del usuario o la información no le sea útil para cualquier fin específico buscado por dicho
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">c)&nbsp;<strong>La comisión de actos de competencia o publicidad desleal por parte de cualquier tercero que hubiera obtenido elementos del sitio web;</strong></h2>
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">d)&nbsp;<strong>La falta de precisión, pertinencia o detalle del contenido del sitio web;</strong></h2>
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">e)&nbsp;<strong>Que el sitio web no satisfaga las expectativas del usuario o la información no le sea útil para cualquier fin específico buscado por dicho
                             usuario; </strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 30px;padding-left: 30px;">f)&nbsp;<strong>El funcionamiento inadecuado de cualquiera de los hipertextos o ligas (links) contenidos en el sitio web, y/o por la calidad, licitud, fiabilidad,
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;padding-right: 30px;padding-left: 30px;">f)&nbsp;<strong>El funcionamiento inadecuado de cualquiera de los hipertextos o ligas (links) contenidos en el sitio web, y/o por la calidad, licitud, fiabilidad,
                             utilidad de los productos, servicios, datos o cualesquiera elementos de los contenidos en las páginas o sitios enlazados</strong></h2>
-                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                    <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                         <label style="color: rgb(225,178,24);height: 12px;"><strong>-</strong><br></label>&nbsp;
                         El usuario renuncia y acuerda en liberar de toda responsabilidad, así como de iniciar cualquier acción legal en contra de Juan Sandoval y
                         Asociados, derivada de cualquier controversia que surja entre el usuario y las páginas web y/o sitios web incluidos en el sitio web.
-                        <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                        <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                             De la responsabilidad del usuario:<br></h2>
-                        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                             El usuario del sitio web se obliga a hacer uso de este, de conformidad con los presentes Términos y Condiciones en forma diligente, correcta y lícita, y
                             conforme con la moral y las buenas costumbres. El usuario responderá por los daños y perjuicios de toda naturaleza que Juan Sandoval y Asociados
                             pudiera sufrir, directa o indirectamente, como consecuencia del incumplimiento de cualquiera de las obligaciones derivadas de los presentes Términos
@@ -277,27 +277,27 @@
                             Asociados, por el uso incorrecto del sitio o por el incumplimiento de cualquiera de los Términos y Condiciones aquí descritos, así mismo el usuario
                             conviene en reembolsar a Juan Sandoval y Asociados, cualquier gasto o erogación que haya realizado por dichos conceptos, incluyendo gastos y/o
                             honorarios de abogados.<br></h2>
-                        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Totalidad:&nbsp;<br></label>&nbsp;Los presentes Términos y Condiciones constituyen un sólo acuerdo entre elusuario y Juan Sandoval y Asociados en relación con las obligaciones aquí
                             establecidas, acordando estos mismos en que, el presente documento, sustituye a cualquier otro acuerdo, sea escrito, oral, o publicado en el sitio con
                             anterioridad, por lo que, en caso de contravención entre el mismo y los acuerdos anteriores, prevalecerá el que aparezca como última publicación en el
                             sitio web.</label><br></h2>
-                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Vigencia:&nbsp;<br></label>&nbsp;Los presentes Términos y Condiciones estarán vigentes de manera indeterminada a partir de su fecha de publicación en el sitio web y hasta que se
                             publique una versión más reciente dejando sin efectos la anterior.</label><br></h2>
-                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Comentarios, Quejas y Sugerencias:&nbsp;<br></label>&nbsp;Para cualquier comentario o sugerencia, el despacho pone a disposición del usuario la siguiente dirección de correo electrónico:
                             <a style="color: black" href="mailto:contactanos@juansandoval.com.mx">contactanos@juansandoval.com.mx</a><br>Cualquier comentario, sugerencia, propuesta, estudio, oferta o en general cualquier tipo de información que el usuario envíe por medio de los correos
                             electrónicos, teléfonos y/o cualquier otro medio de comunicación, no implicará la aceptación de Juan Sandoval y Asociados de algún tipo de
                             compromiso u obligación para el usuario remitente</label><br></h2>
-                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Títulos de los apartados:&nbsp;<br></label>&nbsp;Tanto Juan Sandoval y Asociados como el usuario, acuerdan en que los títulos que se han asignado a cada uno de los apartados que constan en el
                             presente documento, se establecen únicamente para conveniencia de estos, y que los mismos, no deberán ser considerados en la interpretación de los
                             presentes Términos y Condiciones.</label><br></h2>
-                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Otras disposiciones particulares:&nbsp;<br></label>&nbsp;Algunos servicios que se ofrecen o se pudieren ofrecer por medio del sitio web, pueden, además, contener Términos y Condiciones particulares que
                             son específicos de tales servicios y, por tanto, adicionales de los presentes.</label><br></h2>
-                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                        <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                             <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Jurisdicción aplicable:&nbsp;<br></label>&nbsp;En caso de existir controversia en relación a los presentes Términos y Condiciones o el Aviso de Privacidad respectivo, el usuario acuerda expresamente
                             en someterse a la jurisdicción de los tribunales, organismos y/o leyes vigentes aplicables del Estado de México. Reconociendo la naturaleza global del
                             Internet, el usuario, se obliga a acatar la totalidad de las disposiciones locales estatales o federales, con respecto a la gama de conductas que éste
@@ -308,14 +308,14 @@
                 <h1 style=" color: rgb(225,178,24);font-family: Thasadith, sans-serif;
                 "></h1>
                 <h1 style="color: rgb(225,178,24);font-family: Thasadith, sans-serif;">Aviso de Privacidad</h1>
-                <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: justify;">
+                <h2 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-size: 20px;text-align: left;">
                     Ultima actualización 24 de Abril del 2021. <br></h2>
-                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;">
+                <h2 style="    text-indent: 10px;color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;">
                     JUAN SANDOVAL Y ASOCIADOS es responsable del tratamiento y protección de sus datos personales, los
                     cuales son tratados de forma estrictamente confidencial, de conformidad con lo dispuesto en la Ley
                     Federal de la Protección de Datos Personales en Posesión de los Particulares (la "Ley de Datos
                     Personales").<br></h2>
-                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                     <label style="    text-indent: 10px;color: rgb(225,178,24);height: 13px;">¿Qué datos personales recabamos y para qué
                         fines?&nbsp;<br></label>Los datos personales que recabamos de usted a través de este o cualquier
                     otro medio, los utilizaremos para desarrollo de consultas legales y prestación de los servicios
@@ -330,7 +330,7 @@
                     subsidiarias, proveedores o clientes. Además, la Firma garantiza que las transferencias realizadas
                     cumplirán en todo momento con lo dispuesto por los artículos 36 de la Ley de Datos Personales y 68
                     del Reglamento de la Ley de Datos Personales.<br></h2>
-                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                     <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;"><strong>Proteccion de sus
                             datos&nbsp;</strong><br></label>&nbsp;Contamos con las medidas de seguridad suficientes para
                     la protección, confidencialidad y aseguramiento de sus datos personales con la finalidad de
@@ -338,14 +338,14 @@
                     representantes, subcontratistas, consultores y/o los terceros que intervengan en cualquier fase del
                     tratamiento de sus datos personales guardaran confidencialidad respecto de éstos, obligación que
                     subsistirá hasta después de finalizar la relación entre dichas personas.<br></h2>
-                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                     <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">¿Dónde puedo ejercer mis
                         derechos?&nbsp;<br></label>&nbsp;Usted tiene derecho a acceder, rectificar y cancelar sus datos
                     personales, oponerse al tratamiento de los mismos, limitar su uso o divulgación, o revocar el
                     consentimiento que nos ha otorgado para el tratamiento de dichos datos, enviando un correo
                     electrónico a <label style="color: black; font:bold">contactanos@juansandoval.com.mx</label><br>
                 </h2>
-                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: justify;padding-right: 15px;">
+                <h2 style="color: rgb(0,0,0);font-family: Thasadith, sans-serif;font-size: 15px;text-align: left;;">
                     <label style="    text-indent: 10px;color: rgb(225,178,24);height: 12px;">Cambios al aviso de privacidad&nbsp;<br></label>&nbsp;El
                     presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de
                     nuevos requerimientos legales, de nuestras propias necesidades por los servicios que ofrecemos; de
@@ -456,9 +456,9 @@
                                     <div class="form-group" style="padding-top: 15px">
                                         <label
                                                 style="height:20px;color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Consulta
-                                            nuestros&nbsp;<a href="aviso-terminos.php#collapseTerminos" style="color: rgb(0,56,105);">Términos y
+                                            nuestros&nbsp;<a href="aviso-terminos.php#collapseTerminos" style="text-decoration: underline !important;color: rgb(0,56,105);">Términos y
                                                 Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="aviso-terminos.php#collapseAviso"
-                                                                                        style="color: rgb(0,56,105);">Aviso
+                                                                                        style="text-decoration: underline !important;color: rgb(0,56,105);">Aviso
                                                 de Privacidad.</a></label>
                                         <label
                                                 style="color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Todos los derechos reservados 2021</label>
