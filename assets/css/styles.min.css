@@ -24,7 +24,7 @@ div.jumbotron.carousel-hero {
         margin-left: 2% !important;
     }
 }
-@media (max-width: 1500px)
+@media (min-width: 1401px) and (max-width: 1500px)
 {
     header.masthead .intro-text .intro-lead-in
   {
@@ -42,7 +42,7 @@ div.jumbotron.carousel-hero {
   }
 }
 
-@media (min-width: 1500px)
+@media (min-width: 1500px) and (max-width: 1919px)
 {
     header.masthead .intro-text .intro-lead-in
   {
@@ -50,7 +50,7 @@ div.jumbotron.carousel-hero {
       margin-left: 20% !important;
   }
 }
-@media (max-width: 1400px)
+@media (min-width: 1201px) and (max-width: 1400px)
 {
     header.masthead .intro-text .intro-lead-in
   {
@@ -58,7 +58,7 @@ div.jumbotron.carousel-hero {
       margin-left: 15% !important;
   }
 }
-@media ( max-width: 1024px)
+@media ( max-width: 1100px) and (min-width: 1024px)
 {
     header.masthead .intro-text .intro-lead-in
   {
@@ -66,14 +66,15 @@ div.jumbotron.carousel-hero {
       margin-left: 5% !important;
   }
 }
-@media (max-width: 1200px)
+@media (min-width: 1101px)and(max-width: 1201px)
 {
     header.masthead .intro-text .intro-lead-in
   {
       margin-right: 7%!important;
       margin-left: 7% !important;
   }
-}@media (max-width: 1000px)
+}
+@media (max-width: 1000px)
 {
     #divcaps p{
         height: 80px !important;
@@ -170,14 +171,14 @@ p.hero-subtitle {
      line-height: 1.4 !important;
     font-size: 16px !important;
     text-align: left !important;
-    padding-top: 60px !important;
+
     margin:0% !important;
 }
 #overlay-7 p, #overlay-12 p {
      line-height: 1.4 !important;
     font-size: 16px !important;
     text-align: left !important;
-    padding-top: 10px !important;
+
 }
 #overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9 {
     background: #e1b218;
