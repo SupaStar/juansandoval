@@ -49,19 +49,19 @@
         <div class="collapse navbar-collapse" id="navbarResponsive"
              style="font-size: 20px;margin-top: 5px;padding-top: 0px;">
             <ul class="navbar-nav navbar-nav-scroll mx-auto text-uppercase">
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index"
                                         style="font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 65px;"><img
                                 src="assets/img/logo%20header.svg" style="width: 140px;"></a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index.php#quienes"
+                <li class="nav-item"><a class="nav-link text-capitalize js-scroll-trigger" href="index#quienes"
                                         style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">¿Quiénes
                         somos?</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#valores"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index#valores"
                                         style="text-align: center;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;text-transform: none !important;">Nuestros
                         valores</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#servicios"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index#servicios"
                                         style="text-align: center;text-transform: none !important;color: rgb(0,56,105);font-family: Thasadith, sans-serif;height: 55px;">Nuestros
                         servicios</a></li>
-                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index.php#temas-interes"
+                <li class="nav-item"><a class="nav-link text-capitalize  js-scroll-trigger" href="index#temas-interes"
                                         style="text-align: center;font-family: Thasadith, sans-serif;color: rgb(0,56,105);height: 55px;text-transform: none !important;">Temas
                         de
                         interés</a></li>
@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col" style="border-bottom: 1px solid rgb(0,56,105);padding-bottom: 15px;    padding-left: 0px;"><img
                         src="assets/img/bullet.svg" style="width: 16px;transform: rotate(180deg);"><a
-                        href="index.php#temas-interes"
+                        href="index#temas-interes"
                         style="font-family: Thasadith, sans-serif;font-weight: 700;color: rgb(0,56,105);">&nbsp;Regresar
                     a Home</a></div>
         </div>
@@ -910,8 +910,8 @@
                                     <div class="form-group" style="padding-top: 15px">
                                         <label
                                                 style="height:20px;color: rgb(0,56,105);font-family: Thasadith, sans-serif;font-weight: 700;">Consulta
-                                            nuestros&nbsp;<a href="aviso-terminos.php#collapseTerminos" style="text-decoration: underline !important;color: rgb(0,56,105);">Términos y
-                                                Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="aviso-terminos.php#collapseAviso"
+                                            nuestros&nbsp;<a href="aviso-terminos#collapseTerminos" style="text-decoration: underline !important;color: rgb(0,56,105);">Términos y
+                                                Condiciones</a>&nbsp;y&nbsp; el&nbsp;<a href="aviso-terminos#collapseAviso"
                                                                                         style="text-decoration: underline !important;color: rgb(0,56,105);">Aviso
                                                 de Privacidad.</a></label>
                                         <label
