@@ -172,20 +172,20 @@ p.hero-subtitle {
 #overlay p,#overlay2 p,  #overlay3 p, #overlay4 p, #overlay5 p {
      line-height: 1.4 !important;
     font-size: 16px !important;
-    text-align: left !important;
+    text-align: center !important;
 }#overlay2 p,  #overlay3 p{
      padding-top: 50px !important;
 }#overlay-1 p,#overlay-2 p,  #overlay-3 p, #overlay-4 p, #overlay-5 p, #overlay-6 p,  #overlay-8 p, #overlay-9 p, #overlay-10 p, #overlay-11 p {
      line-height: 1.4 !important;
     font-size: 16px !important;
-    text-align: left !important;
+    text-align: center !important;
 
     margin:0% !important;
 }
 #overlay-7 p, #overlay-12 p {
      line-height: 1.4 !important;
     font-size: 16px !important;
-    text-align: left !important;
+    text-align: center !important;
 
 }
 #overlay-1, #overlay-10, #overlay-11, #overlay-12, #overlay-2, #overlay-3, #overlay-4, #overlay-5, #overlay-6, #overlay-7, #overlay-8, #overlay-9 {
